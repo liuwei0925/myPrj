@@ -1,0 +1,83 @@
+E:\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+E:\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+E:\ClassLibrary2\ClassLibrary2\obj\Debug\ResolveAssemblyReference.cache
+E:\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+E:\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+F:\kezhaosheng_work\hangzhoi_ims\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+F:\kezhaosheng_work\hangzhoi_ims\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+F:\kezhaosheng_work\hangzhoi_ims\ClassLibrary2\ClassLibrary2\obj\Debug\ResolveAssemblyReference.cache
+F:\kezhaosheng_work\hangzhoi_ims\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+F:\kezhaosheng_work\hangzhoi_ims\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+F:\kezhaosheng_work\code\zhongjianjian_new\zhongjianjan_server\ClassLibrary2\ClassLibrary2\obj\Debug\ResolveAssemblyReference.cache
+F:\kezhaosheng_work\code\zhongjianjian_new\zhongjianjan_server\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+F:\kezhaosheng_work\code\zhongjianjian_new\zhongjianjan_server\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+F:\kezhaosheng_work\code\zhongjianjian_new\zhongjianjan_server\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+F:\kezhaosheng_work\code\zhongjianjian_new\zhongjianjan_server\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\Administrator\Desktop\zhongjianjian_new _msg_bus\zhongjianjan_server\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Administrator\Desktop\zhongjianjian_new _msg_bus\zhongjianjan_server\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Administrator\Desktop\zhongjianjian_new _msg_bus\zhongjianjan_server\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Administrator\Desktop\zhongjianjian_new _msg_bus\zhongjianjan_server\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\kezhaosheng\Desktop\tmp\server\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\kezhaosheng\Desktop\tmp\server\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\kezhaosheng\Desktop\tmp\server\ClassLibrary2\ClassLibrary2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kezhaosheng\Desktop\tmp\server\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\kezhaosheng\Desktop\tmp\server\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+F:\hangzhou\backup\杭州\中间件\中间件\server\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+F:\hangzhou\backup\杭州\中间件\中间件\server\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+F:\hangzhou\backup\杭州\中间件\中间件\server\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+F:\hangzhou\backup\杭州\中间件\中间件\server\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\kezhaosheng\Desktop\11-18\中间件\server\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\kezhaosheng\Desktop\11-18\中间件\server\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\kezhaosheng\Desktop\11-18\中间件\server\ClassLibrary2\ClassLibrary2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kezhaosheng\Desktop\11-18\中间件\server\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\kezhaosheng\Desktop\11-18\中间件\server\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\kezhaosheng\Documents\Visual Studio 2010\Projects\middleware_external\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\kezhaosheng\Documents\Visual Studio 2010\Projects\middleware_external\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\kezhaosheng\Documents\Visual Studio 2010\Projects\middleware_external\ClassLibrary2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kezhaosheng\Documents\Visual Studio 2010\Projects\middleware_external\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\kezhaosheng\Documents\Visual Studio 2010\Projects\middleware_external\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\aliyunService\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\aliyunService\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\aliyunService\ClassLibrary2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\aliyunService\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\aliyunService\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\Administrator\Desktop\113\aliyunService\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Administrator\Desktop\113\aliyunService\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Administrator\Desktop\113\aliyunService\ClassLibrary2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\113\aliyunService\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Administrator\Desktop\113\aliyunService\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\Administrator\Desktop\victory\113\aliyunService\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Administrator\Desktop\victory\113\aliyunService\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Administrator\Desktop\victory\113\aliyunService\ClassLibrary2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\victory\113\aliyunService\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Administrator\Desktop\victory\113\aliyunService\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\ClassLibrary2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\ClassLibrary2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\ClassLibrary2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\ClassLibrary2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\ClassLibrary2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\Administrator\Desktop\me2\me\aliyunService\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Administrator\Desktop\me2\me\aliyunService\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Administrator\Desktop\me2\me\aliyunService\ClassLibrary2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\me2\me\aliyunService\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Administrator\Desktop\me2\me\aliyunService\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

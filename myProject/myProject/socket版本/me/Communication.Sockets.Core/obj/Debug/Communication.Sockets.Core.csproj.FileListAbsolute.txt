@@ -1,0 +1,90 @@
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\Communication.Sockets.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\work\Sockets Multiple Clients - Bytes\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\work\Sockets Multiple Clients - Bytes\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\work\Sockets Multiple Clients - Bytes\Communication.Sockets.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\work\Sockets Multiple Clients - Bytes\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\work\Sockets Multiple Clients - Bytes\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\l001\Sockets Multiple Clients - Bytes\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\l001\Sockets Multiple Clients - Bytes\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\l001\Sockets Multiple Clients - Bytes\Communication.Sockets.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\l001\Sockets Multiple Clients - Bytes\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\l001\Sockets Multiple Clients - Bytes\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\1-5\l001\Sockets Multiple Clients - Bytes\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\1-5\l001\Sockets Multiple Clients - Bytes\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\1-5\l001\Sockets Multiple Clients - Bytes\Communication.Sockets.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\1-5\l001\Sockets Multiple Clients - Bytes\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\1-5\l001\Sockets Multiple Clients - Bytes\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.pdb
+G:\work\middleware\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.dll
+G:\work\middleware\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.pdb
+G:\work\middleware\Communication.Sockets.Core\obj\Debug\ResolveAssemblyReference.cache
+G:\work\middleware\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.dll
+G:\work\middleware\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\1-11\middleware\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\1-11\middleware\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\1-11\middleware\Communication.Sockets.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\1-11\middleware\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\1-11\middleware\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\1-12\1-11\middleware\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\1-12\1-11\middleware\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\1-12\1-11\middleware\Communication.Sockets.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\1-12\1-11\middleware\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\1-12\1-11\middleware\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\113\1-12\1-11\middleware\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\113\1-12\1-11\middleware\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\113\1-12\1-11\middleware\Communication.Sockets.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\113\1-12\1-11\middleware\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\113\1-12\1-11\middleware\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\victory\113\1-12\1-11\middleware\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\victory\113\1-12\1-11\middleware\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\victory\113\1-12\1-11\middleware\Communication.Sockets.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\victory\113\1-12\1-11\middleware\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\victory\113\1-12\1-11\middleware\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\victory\victory\113\1-12\1-11\middleware\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\victory\victory\113\1-12\1-11\middleware\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\victory\victory\113\1-12\1-11\middleware\Communication.Sockets.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\victory\victory\113\1-12\1-11\middleware\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\victory\victory\113\1-12\1-11\middleware\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\1-12\1-11\middleware\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\1-12\1-11\middleware\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\1-12\1-11\middleware\Communication.Sockets.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\1-12\1-11\middleware\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\1-12\1-11\middleware\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\1-12\1-11\middleware\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\1-12\1-11\middleware\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\1-12\1-11\middleware\Communication.Sockets.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\1-12\1-11\middleware\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\1-12\1-11\middleware\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\Communication.Sockets.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\Communication.Sockets.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\我的备份1\middleware\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\我的备份1\middleware\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\我的备份1\middleware\Communication.Sockets.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\我的备份1\middleware\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\我的备份1\middleware\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\me\me\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\me\me\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\me\me\Communication.Sockets.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\me\me\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\me\me\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\me2\me\me\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\me2\me\me\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\me2\me\me\Communication.Sockets.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\me2\me\me\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\me2\me\me\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\myProject\myProject\socket版本\me\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\myProject\myProject\socket版本\me\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\myProject\myProject\socket版本\me\Communication.Sockets.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\myProject\myProject\socket版本\me\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\myProject\myProject\socket版本\me\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.pdb

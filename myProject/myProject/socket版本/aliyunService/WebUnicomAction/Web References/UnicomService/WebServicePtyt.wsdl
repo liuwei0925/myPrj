@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:ns="WebServicePtyt" xmlns:ns1="http://org.apache.axis2/xsd" targetNamespace="WebServicePtyt" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:documentation>WebServicePtyt</wsdl:documentation>
+  <wsdl:types>
+    <xs:schema attributeFormDefault="qualified" elementFormDefault="qualified" targetNamespace="WebServicePtyt">
+      <xs:element name="test">
+        <xs:complexType>
+          <xs:sequence />
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="UserAuthorityQuery">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="userNum" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="UserAuthorityQueryResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="return" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="UserAuthorityModify">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="userNum" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="authorityXml" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="UserAuthorityModifyResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="return" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="QueryUserList">
+        <xs:complexType>
+          <xs:sequence />
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="QueryUserListResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="return" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="QueryUserInfo">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="userNum" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="QueryUserInfoResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="return" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="QueryGroupUserList">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="groupNum" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="QueryGroupUserListResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="return" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="QueryGroupList">
+        <xs:complexType>
+          <xs:sequence />
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="QueryGroupListResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="return" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ModifyUser">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="userNum" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="userXml" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ModifyUserResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="return" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ModifyGroup">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="groupNum" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="groupXml" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ModifyGroupResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="return" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="GroupUserDistribution">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="groupNum" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="userXml" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="GroupUserDistributionResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="return" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="DeleteUser">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="userNum" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="DeleteUserResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="return" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="DeleteGroup">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="groupNum" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="DeleteGroupResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="return" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="AddUser">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="userNum" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="userXml" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="AddUserResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="return" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="AddGroup">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="groupNum" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="groupXml" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="AddGroupResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="return" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+  </wsdl:types>
+  <wsdl:message name="QueryGroupListRequest">
+    <wsdl:part name="parameters" element="ns:QueryGroupList" />
+  </wsdl:message>
+  <wsdl:message name="QueryGroupListResponse">
+    <wsdl:part name="parameters" element="ns:QueryGroupListResponse" />
+  </wsdl:message>
+  <wsdl:message name="testRequest">
+    <wsdl:part name="parameters" element="ns:test" />
+  </wsdl:message>
+  <wsdl:message name="UserAuthorityModifyRequest">
+    <wsdl:part name="parameters" element="ns:UserAuthorityModify" />
+  </wsdl:message>
+  <wsdl:message name="UserAuthorityModifyResponse">
+    <wsdl:part name="parameters" element="ns:UserAuthorityModifyResponse" />
+  </wsdl:message>
+  <wsdl:message name="QueryUserListRequest">
+    <wsdl:part name="parameters" element="ns:QueryUserList" />
+  </wsdl:message>
+  <wsdl:message name="QueryUserListResponse">
+    <wsdl:part name="parameters" element="ns:QueryUserListResponse" />
+  </wsdl:message>
+  <wsdl:message name="ModifyUserRequest">
+    <wsdl:part name="parameters" element="ns:ModifyUser" />
+  </wsdl:message>
+  <wsdl:message name="ModifyUserResponse">
+    <wsdl:part name="parameters" element="ns:ModifyUserResponse" />
+  </wsdl:message>
+  <wsdl:message name="QueryGroupUserListRequest">
+    <wsdl:part name="parameters" element="ns:QueryGroupUserList" />
+  </wsdl:message>
+  <wsdl:message name="QueryGroupUserListResponse">
+    <wsdl:part name="parameters" element="ns:QueryGroupUserListResponse" />
+  </wsdl:message>
+  <wsdl:message name="DeleteUserRequest">
+    <wsdl:part name="parameters" element="ns:DeleteUser" />
+  </wsdl:message>
+  <wsdl:message name="DeleteUserResponse">
+    <wsdl:part name="parameters" element="ns:DeleteUserResponse" />
+  </wsdl:message>
+  <wsdl:message name="AddUserRequest">
+    <wsdl:part name="parameters" element="ns:AddUser" />
+  </wsdl:message>
+  <wsdl:message name="AddUserResponse">
+    <wsdl:part name="parameters" element="ns:AddUserResponse" />
+  </wsdl:message>
+  <wsdl:message name="ModifyGroupRequest">
+    <wsdl:part name="parameters" element="ns:ModifyGroup" />
+  </wsdl:message>
+  <wsdl:message name="ModifyGroupResponse">
+    <wsdl:part name="parameters" element="ns:ModifyGroupResponse" />
+  </wsdl:message>
+  <wsdl:message name="GroupUserDistributionRequest">
+    <wsdl:part name="parameters" element="ns:GroupUserDistribution" />
+  </wsdl:message>
+  <wsdl:message name="GroupUserDistributionResponse">
+    <wsdl:part name="parameters" element="ns:GroupUserDistributionResponse" />
+  </wsdl:message>
+  <wsdl:message name="UserAuthorityQueryRequest">
+    <wsdl:part name="parameters" element="ns:UserAuthorityQuery" />
+  </wsdl:message>
+  <wsdl:message name="UserAuthorityQueryResponse">
+    <wsdl:part name="parameters" element="ns:UserAuthorityQueryResponse" />
+  </wsdl:message>
+  <wsdl:message name="DeleteGroupRequest">
+    <wsdl:part name="parameters" element="ns:DeleteGroup" />
+  </wsdl:message>
+  <wsdl:message name="DeleteGroupResponse">
+    <wsdl:part name="parameters" element="ns:DeleteGroupResponse" />
+  </wsdl:message>
+  <wsdl:message name="AddGroupRequest">
+    <wsdl:part name="parameters" element="ns:AddGroup" />
+  </wsdl:message>
+  <wsdl:message name="AddGroupResponse">
+    <wsdl:part name="parameters" element="ns:AddGroupResponse" />
+  </wsdl:message>
+  <wsdl:message name="QueryUserInfoRequest">
+    <wsdl:part name="parameters" element="ns:QueryUserInfo" />
+  </wsdl:message>
+  <wsdl:message name="QueryUserInfoResponse">
+    <wsdl:part name="parameters" element="ns:QueryUserInfoResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WebServicePtytPortType">
+    <wsdl:operation name="QueryGroupList">
+      <wsdl:input wsaw:Action="urn:QueryGroupList" message="ns:QueryGroupListRequest" />
+      <wsdl:output wsaw:Action="urn:QueryGroupListResponse" message="ns:QueryGroupListResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="test">
+      <wsdl:input wsaw:Action="urn:test" message="ns:testRequest" />
+    </wsdl:operation>
+    <wsdl:operation name="UserAuthorityModify">
+      <wsdl:input wsaw:Action="urn:UserAuthorityModify" message="ns:UserAuthorityModifyRequest" />
+      <wsdl:output wsaw:Action="urn:UserAuthorityModifyResponse" message="ns:UserAuthorityModifyResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="QueryUserList">
+      <wsdl:input wsaw:Action="urn:QueryUserList" message="ns:QueryUserListRequest" />
+      <wsdl:output wsaw:Action="urn:QueryUserListResponse" message="ns:QueryUserListResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="ModifyUser">
+      <wsdl:input wsaw:Action="urn:ModifyUser" message="ns:ModifyUserRequest" />
+      <wsdl:output wsaw:Action="urn:ModifyUserResponse" message="ns:ModifyUserResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="QueryGroupUserList">
+      <wsdl:input wsaw:Action="urn:QueryGroupUserList" message="ns:QueryGroupUserListRequest" />
+      <wsdl:output wsaw:Action="urn:QueryGroupUserListResponse" message="ns:QueryGroupUserListResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteUser">
+      <wsdl:input wsaw:Action="urn:DeleteUser" message="ns:DeleteUserRequest" />
+      <wsdl:output wsaw:Action="urn:DeleteUserResponse" message="ns:DeleteUserResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="AddUser">
+      <wsdl:input wsaw:Action="urn:AddUser" message="ns:AddUserRequest" />
+      <wsdl:output wsaw:Action="urn:AddUserResponse" message="ns:AddUserResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="ModifyGroup">
+      <wsdl:input wsaw:Action="urn:ModifyGroup" message="ns:ModifyGroupRequest" />
+      <wsdl:output wsaw:Action="urn:ModifyGroupResponse" message="ns:ModifyGroupResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="GroupUserDistribution">
+      <wsdl:input wsaw:Action="urn:GroupUserDistribution" message="ns:GroupUserDistributionRequest" />
+      <wsdl:output wsaw:Action="urn:GroupUserDistributionResponse" message="ns:GroupUserDistributionResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="UserAuthorityQuery">
+      <wsdl:input wsaw:Action="urn:UserAuthorityQuery" message="ns:UserAuthorityQueryRequest" />
+      <wsdl:output wsaw:Action="urn:UserAuthorityQueryResponse" message="ns:UserAuthorityQueryResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteGroup">
+      <wsdl:input wsaw:Action="urn:DeleteGroup" message="ns:DeleteGroupRequest" />
+      <wsdl:output wsaw:Action="urn:DeleteGroupResponse" message="ns:DeleteGroupResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="AddGroup">
+      <wsdl:input wsaw:Action="urn:AddGroup" message="ns:AddGroupRequest" />
+      <wsdl:output wsaw:Action="urn:AddGroupResponse" message="ns:AddGroupResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="QueryUserInfo">
+      <wsdl:input wsaw:Action="urn:QueryUserInfo" message="ns:QueryUserInfoRequest" />
+      <wsdl:output wsaw:Action="urn:QueryUserInfoResponse" message="ns:QueryUserInfoResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WebServicePtytSoap11Binding" type="ns:WebServicePtytPortType">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="QueryGroupList">
+      <soap:operation soapAction="urn:QueryGroupList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="test">
+      <soap:operation soapAction="urn:test" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+    </wsdl:operation>
+    <wsdl:operation name="UserAuthorityModify">
+      <soap:operation soapAction="urn:UserAuthorityModify" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="QueryUserList">
+      <soap:operation soapAction="urn:QueryUserList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ModifyUser">
+      <soap:operation soapAction="urn:ModifyUser" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="QueryGroupUserList">
+      <soap:operation soapAction="urn:QueryGroupUserList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddUser">
+      <soap:operation soapAction="urn:AddUser" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteUser">
+      <soap:operation soapAction="urn:DeleteUser" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GroupUserDistribution">
+      <soap:operation soapAction="urn:GroupUserDistribution" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ModifyGroup">
+      <soap:operation soapAction="urn:ModifyGroup" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteGroup">
+      <soap:operation soapAction="urn:DeleteGroup" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UserAuthorityQuery">
+      <soap:operation soapAction="urn:UserAuthorityQuery" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddGroup">
+      <soap:operation soapAction="urn:AddGroup" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="QueryUserInfo">
+      <soap:operation soapAction="urn:QueryUserInfo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WebServicePtytSoap12Binding" type="ns:WebServicePtytPortType">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="QueryGroupList">
+      <soap12:operation soapAction="urn:QueryGroupList" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="test">
+      <soap12:operation soapAction="urn:test" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+    </wsdl:operation>
+    <wsdl:operation name="UserAuthorityModify">
+      <soap12:operation soapAction="urn:UserAuthorityModify" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="QueryUserList">
+      <soap12:operation soapAction="urn:QueryUserList" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ModifyUser">
+      <soap12:operation soapAction="urn:ModifyUser" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="QueryGroupUserList">
+      <soap12:operation soapAction="urn:QueryGroupUserList" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddUser">
+      <soap12:operation soapAction="urn:AddUser" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteUser">
+      <soap12:operation soapAction="urn:DeleteUser" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GroupUserDistribution">
+      <soap12:operation soapAction="urn:GroupUserDistribution" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ModifyGroup">
+      <soap12:operation soapAction="urn:ModifyGroup" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteGroup">
+      <soap12:operation soapAction="urn:DeleteGroup" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UserAuthorityQuery">
+      <soap12:operation soapAction="urn:UserAuthorityQuery" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddGroup">
+      <soap12:operation soapAction="urn:AddGroup" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="QueryUserInfo">
+      <soap12:operation soapAction="urn:QueryUserInfo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WebServicePtytHttpBinding" type="ns:WebServicePtytPortType">
+    <http:binding verb="POST" />
+    <wsdl:operation name="QueryGroupList">
+      <http:operation location="QueryGroupList" />
+      <wsdl:input>
+        <mime:content part="parameters" type="application/xml" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:content part="parameters" type="application/xml" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="test">
+      <http:operation location="test" />
+      <wsdl:input>
+        <mime:content part="parameters" type="application/xml" />
+      </wsdl:input>
+    </wsdl:operation>
+    <wsdl:operation name="UserAuthorityModify">
+      <http:operation location="UserAuthorityModify" />
+      <wsdl:input>
+        <mime:content part="parameters" type="application/xml" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:content part="parameters" type="application/xml" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="QueryUserList">
+      <http:operation location="QueryUserList" />
+      <wsdl:input>
+        <mime:content part="parameters" type="application/xml" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:content part="parameters" type="application/xml" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ModifyUser">
+      <http:operation location="ModifyUser" />
+      <wsdl:input>
+        <mime:content part="parameters" type="application/xml" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:content part="parameters" type="application/xml" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="QueryGroupUserList">
+      <http:operation location="QueryGroupUserList" />
+      <wsdl:input>
+        <mime:content part="parameters" type="application/xml" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:content part="parameters" type="application/xml" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddUser">
+      <http:operation location="AddUser" />
+      <wsdl:input>
+        <mime:content part="parameters" type="application/xml" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:content part="parameters" type="application/xml" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteUser">
+      <http:operation location="DeleteUser" />
+      <wsdl:input>
+        <mime:content part="parameters" type="application/xml" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:content part="parameters" type="application/xml" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GroupUserDistribution">
+      <http:operation location="GroupUserDistribution" />
+      <wsdl:input>
+        <mime:content part="parameters" type="application/xml" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:content part="parameters" type="application/xml" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ModifyGroup">
+      <http:operation location="ModifyGroup" />
+      <wsdl:input>
+        <mime:content part="parameters" type="application/xml" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:content part="parameters" type="application/xml" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteGroup">
+      <http:operation location="DeleteGroup" />
+      <wsdl:input>
+        <mime:content part="parameters" type="application/xml" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:content part="parameters" type="application/xml" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UserAuthorityQuery">
+      <http:operation location="UserAuthorityQuery" />
+      <wsdl:input>
+        <mime:content part="parameters" type="application/xml" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:content part="parameters" type="application/xml" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddGroup">
+      <http:operation location="AddGroup" />
+      <wsdl:input>
+        <mime:content part="parameters" type="application/xml" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:content part="parameters" type="application/xml" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="QueryUserInfo">
+      <http:operation location="QueryUserInfo" />
+      <wsdl:input>
+        <mime:content part="parameters" type="application/xml" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:content part="parameters" type="application/xml" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WebServicePtyt">
+    <wsdl:port name="WebServicePtytHttpSoap11Endpoint" binding="ns:WebServicePtytSoap11Binding">
+      <soap:address location="http://localhost:8098/services/WebServicePtyt.WebServicePtytHttpSoap11Endpoint/" />
+    </wsdl:port>
+    <wsdl:port name="WebServicePtytHttpSoap12Endpoint" binding="ns:WebServicePtytSoap12Binding">
+      <soap12:address location="http://localhost:8098/services/WebServicePtyt.WebServicePtytHttpSoap12Endpoint/" />
+    </wsdl:port>
+    <wsdl:port name="WebServicePtytHttpEndpoint" binding="ns:WebServicePtytHttpBinding">
+      <http:address location="http://localhost:8098/services/WebServicePtyt.WebServicePtytHttpEndpoint/" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

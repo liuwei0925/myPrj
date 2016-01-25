@@ -1,0 +1,7 @@
+C:\Projects\Utils\Socket Communication - Typed Messages\Aviad.Utils.Communication.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Utils\Socket Communication - Typed Messages\Aviad.Utils.Communication.Core\bin\Debug\Communication.Globals.dll
+C:\Projects\Utils\Socket Communication - Typed Messages\Aviad.Utils.Communication.Core\bin\Debug\Communication.Globals.pdb
+C:\Projects\Utils\Socket Communication - Typed Messages\Aviad.Utils.Communication.Core\bin\Debug\Communication.Sockets.Core.dll
+C:\Projects\Utils\Socket Communication - Typed Messages\Aviad.Utils.Communication.Core\bin\Debug\Communication.Sockets.Core.pdb
+C:\Projects\Utils\Socket Communication - Typed Messages\Aviad.Utils.Communication.Core\obj\Debug\Communication.Sockets.Core.dll
+C:\Projects\Utils\Socket Communication - Typed Messages\Aviad.Utils.Communication.Core\obj\Debug\Communication.Sockets.Core.pdb

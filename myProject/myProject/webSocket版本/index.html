@@ -1,0 +1,343 @@
+﻿<!doctype html>
+<html>
+<head>
+    <title>Websockets client</title>
+</head>
+<body>
+
+
+<form id="form1" name="form1" method="post" action="">
+  <p>
+  
+    <input name="button" type="button" onClick="createConfRoom()" value="发起调度" />
+    <input type="button" name="button2" onClick="stopConfRoom()" value="结束调度" />
+    <input type="button" name="button3" onClick="addMember()" value="强插" />
+    <input type="button" name="button4" onClick="kickMember()" value="强拆" />
+  </p>
+  <p align="left">&nbsp;</p>
+  <p>
+  成员：
+    <textarea name="textarea4" id="numbers"></textarea>
+  </P>
+  <p>
+    调度室
+      <textarea name="textarea5" id="confRoomText"></textarea>
+    ：  
+      
+	Received：
+	  <textarea id="receivedText"></textarea>
+  </p>
+  <p>&nbsp;</p>
+  <div>
+  <p align="left">坐席配置：</p>
+  <p align="left">用户名：
+    <textarea cols="" rows="" id="textarea"></textarea>
+  </p>
+  <p>密码：
+    <textarea cols="" rows="" id="textarea2"></textarea>
+  </p>
+  <p>电话：
+    <textarea cols="" rows="" id="textarea3"></textarea>
+  </p>
+  <p>
+    <input type="button" name="button522" onClick="init()" value="确定" />
+  </p>
+  </div>
+  <p>&nbsp;</p>
+  <p>
+    <input type="button" name="button5" onClick="login()" value="登录" />
+    <input type="button" name="button6"onclick="logout()"  value="注销" />
+  </p>
+
+  <input type="button" name="button4" onClick="WebSocketTest()" value="建立连接" />
+</form>
+<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script type="text/javascript">
+var operatorName;
+var operatorNum
+var pass;
+var others = "0";
+var localRoomId = "1031234";
+var serverRoomId;
+var host = "localhost:8181";
+var synNumber;
+
+var ws;
+         function WebSocketTest()
+         {
+            if ("WebSocket" in window)
+            {
+              // alert("WebSocket is supported by your Browser!");
+               
+               // Let us open a web socket
+               ws = new WebSocket("ws://" + host);
+				        init();
+               ws.onopen = function()
+               {
+                  // Web Socket is connected, send data using send()
+                 // ws.send("Message to send");
+                 // alert("Message is sent...");
+               };
+				
+               ws.onmessage = function (evt) 
+               { 
+                  var received_msg = evt.data;
+                  //alert(received_msg);
+                  document.getElementById('receivedText').innerText = received_msg;
+
+                  var flag = "-1-2-1-2-1-2-1-2";
+
+                  var receivedFlag = received_msg.substring(0, 16);
+                  
+                  if (receivedFlag != flag)
+                    return;
+
+                  received_msg = received_msg.substring(16);
+                  var separateIndex = received_msg.indexOf("\r\n");
+                   var msgType = received_msg.substring(0, separateIndex);
+                   switch(msgType)
+                   {
+                    case "CREATECONFROOMACK":
+                        createConfRoomAck(received_msg);
+                    break;
+                    case "SERVERRELEASECONFROOM":
+                        serverReleaseConfRoom(received_msg);
+                    break;
+                    case "MEMBERCONNECTED":
+                        memberConnected(received_msg);
+                    break;
+                    case "QUITCONFROOM":
+                        quitConfRoom(received_msg);
+                    break;
+                    case "LOGINACK":
+                        loginAck(received_msg);
+                    break;
+                    case "LOGOUTACK":
+                        logoutAck(received_msg);
+                    break;
+                    case "KEEPALIVE":
+                        keepAlive(received_msg);
+                    break;
+
+                   }
+
+				  
+               };
+				
+               ws.onclose = function()
+               { 
+                  // websocket is closed.
+                  alert("Connection is closed..."); 
+               };
+            }
+            
+            else
+            {
+               // The browser doesn't support WebSocket
+               alert("WebSocket NOT supported by your Browser!");
+            }
+         }
+		 
+		  function init()
+		  {
+		    operatorName = document.getElementById('textarea').value;
+			pass = document.getElementById('textarea2').value;
+			operatorNum = document.getElementById('textarea3').value;
+     // alert(operatorName);
+		  }
+		  
+		  
+      function TextFollowing(searchTxt, value)
+        {
+            var separateString = "\r\n";
+            if (searchTxt.length > 0 && value.length > 0)
+            {
+                var index = searchTxt.indexOf(value);
+                if (-1 < index)
+                {
+                    var separateIndex = searchTxt.indexOf(separateString, index);
+                    if (-1 < separateIndex)
+                    {
+                        var start = index + value.length;
+                        return searchTxt.substr(start, separateIndex - start);
+                    }
+                }
+            }
+            return "";
+        }
+
+		  function createConfRoom()
+		  {
+			var msg =
+			  "CREATECONFROOM\r\n" 
+			+ "OPERATORNAME:" + operatorName + "\r\n"
+			+ "OPERATORNUMBER:" + operatorNum + "\r\n"
+			+ "LOCALCONFROOMID:" + localRoomId + "\r\n"
+			+ "CONFROOMDESC:new conf room\r\n"
+			+ "OTHERS:" + others + "\r\n"
+			+ "MAXDURATION:3600\r\n";
+      sendMessage(msg);
+		  }
+		   function stopConfRoom()
+		  {
+			var msg =
+			  "STOPCONFROOM\r\n" 
+			+ "OPERATORNAME:" + operatorName + "\r\n"
+			+ "OPERATORNUMBER:" + operatorNum + "\r\n"
+			+ "SERVERROOMID:" + serverRoomId + "\r\n"
+			+ "LOCALCONFROOMID:" + localRoomId + "\r\n"
+			+ "OTHERS:" + others + "\r\n"
+      sendMessage(msg);
+
+		  }
+		   function addMember()
+		  {
+		   var msg =
+			  "ADDCONFMEMBER\r\n" 
+			+ "OPERATORNAME:" + operatorName + "\r\n"
+			+ "LOCALCONFROOMID:" + localRoomId + "\r\n"
+			+ "SERVERROOMID:" + serverRoomId + "\r\n"
+			+ "MUTEFLAG:0\r\n"
+			+ "OTHERS:" + document.getElementById("numbers").value + "\r\n"
+			+ "MAXDURATION:3600\r\n"
+			+ "SPTYPE:SIP\r\n";
+      sendMessage(msg);
+
+		  }
+		   function kickMember()
+		  {
+			var msg =
+			  "KICKCONFMEMBER\r\n" 
+			+ "OPERATORNAME:" + operatorName + "\r\n"
+			+ "LOCALCONFROOMID:" + localRoomId + "\r\n"
+			+ "SERVERROOMID:" + serverRoomId + "\r\n"
+			+ "NUMBER:" + document.getElementById("numbers").value + "\r\n"
+      sendMessage(msg);
+
+		  }
+		   function login()
+		  {
+			var msg =
+			  "LOGIN\r\n" 
+			+ "OPERATORNAME:" + operatorName + "\r\n"
+			+ "PASS:" + pass + "\r\n"
+			+ "PHONE1:" + operatorNum + "\r\n"
+			+ "STATE1:1\r\n"
+			+ "PHONE2:\r\n"
+			+ "STATE2:0\r\n";
+      //alert(msg);
+      sendMessage(msg);
+
+		  } 
+      function logout()
+		  {
+			var msg =
+			  "LOGOUT\r\n" 
+			+ "OPERATORNAME:" + operatorName + "\r\n"
+			+ "PASS:" + operatorName + "\r\n";
+      sendMessage(msg);
+		  }
+		  
+		  function createConfRoomAck(msg)
+		  {
+
+          var status = TextFollowing(msg, "STATUS:");
+          if (status == "OK")
+          {
+		    alert("创建调度成功");
+            serverRoomId = TextFollowing(msg, "SERVERROOMID:");
+            //localRoomId = TextFollowing(msg, "LOCALCONFROOMID:");
+			document.getElementById("confRoomText").innerText = "调度室：" + serverRoomId + "\r\n成员：";
+          }
+          else
+          {
+              alert("创建调度失败");
+          }
+          //OPERATORNAMEatorName = TextFollowing(msg, "OPERATORNAME:");
+
+          
+		  }
+		  
+		    function serverReleaseConfRoom(msg)
+		  {
+			var status = TextFollowing(msg, "STATUS:");
+		    document.getElementById("confRoomText").innerText = "";
+			alert("调度结束");
+            others = "0";
+		  }
+		  
+		    function memberConnected(msg)
+		  {
+          var number = TextFollowing(msg, "NUMBER:");
+              if (others == "0")
+                others += number;
+              else
+                others +=  ";" + number;
+          document.getElementById("confRoomText").innerText += number + ";";
+		  }
+		  
+		    function quitConfRoom(msg)
+		  {
+          var number = TextFollowing(msg, "NUMBER:");
+          if (others.indexOf(number) + number.length == others.length)
+              others = others.replace(number, "");
+          else
+              others = others.replace(number + ";", "");
+
+
+          var numbers = document.getElementById("confRoomText").value;
+          numbers = numbers.replace(number + ";", "");
+          document.getElementById("confRoomText").innerText = numbers;
+		  }
+		  
+        function keepAlive(msg)
+      {
+        synNumber = TextFollowing(msg, "SYN:");
+        var msg =
+          "KEEPALIVEACK\r\n" 
+        + "OPERATORNAME:" + operatorName + "\r\n"
+        + "SYN:" + synNumber + "\r\n";
+        sendMessage(msg);
+      }
+      
+
+		    function loginAck(msg)
+		  {
+
+         var status = TextFollowing(msg, "STATUS:");
+		 //alert(status);
+          if (status == "OK")
+          {
+
+             alert("登录成功");
+          }
+          else
+          {
+             alert("登录失败");
+          }
+		  }
+		  
+		    function logoutAck(msg)
+		  {
+          var status = TextFollowing(msg, "STATUS:");
+          if (status == "OK")
+          {
+
+             alert("注销成功");
+          }
+          else
+          {
+             alert("注销失败");
+          }
+		  }
+
+            function sendMessage(msg)
+            {
+               var head = "-1-2-1-2-1-2-1-2";
+               var totalMsg = head + msg;
+               ws.send(totalMsg);
+            }
+      </script>
+
+</body>
+</html>

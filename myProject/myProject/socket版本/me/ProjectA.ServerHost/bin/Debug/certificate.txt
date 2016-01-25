@@ -1,0 +1,17 @@
+﻿		{
+			"check" : "391bafefafa266aac3ecb5155d128d67",
+			"info" : 
+				{
+					"cmb" : 
+						{
+							 "define" : "",
+							 "id" : "{DD689D94-89AF-4C58-9650-B90F910F362D}",
+							 "ip" : "121.40.30.88;10.100.254.66",
+							 "localhost" : false,
+							 "notify" : "@emergency_cmd_msg@",
+							 "subscribe" : "@emergency_cmd_msg@",
+							 "user" : 3,
+							 "valid" : "2016-10-14"
+						}
+				}
+		}

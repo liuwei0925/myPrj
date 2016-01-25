@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\ProjectA.ClientHost\bin\Debug\ProjectA.ClientHost.exe
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\ProjectA.ClientHost\bin\Debug\ProjectA.ClientHost.pdb
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\ProjectA.ClientHost\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\ProjectA.ClientHost\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\ProjectA.ClientHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\ProjectA.ClientHost\obj\Debug\ProjectA.ClientHost.FrmClient.resources
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\ProjectA.ClientHost\obj\Debug\ProjectA.ClientHost.Properties.Resources.resources
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\ProjectA.ClientHost\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\ProjectA.ClientHost\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\ProjectA.ClientHost\obj\Debug\ProjectA.ClientHost.exe
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\ProjectA.ClientHost\obj\Debug\ProjectA.ClientHost.pdb

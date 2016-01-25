@@ -1,0 +1,144 @@
+c:\users\administrator\documents\visual studio 2010\Projects\aliyunService\aliyunService\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\aliyunService\aliyunService\obj\x86\Debug\aliyunService.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\aliyunService\aliyunService\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\aliyunService\aliyunService\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\aliyunService\aliyunService\bin\Debug\aliyunService.exe
+c:\users\administrator\documents\visual studio 2010\Projects\aliyunService\aliyunService\bin\Debug\aliyunService.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\aliyunService\aliyunService\obj\x86\Debug\aliyunService.exe
+c:\users\administrator\documents\visual studio 2010\Projects\aliyunService\aliyunService\obj\x86\Debug\aliyunService.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\aliyunService\aliyunService\bin\Debug\ClassLibrary2.dll
+c:\users\administrator\documents\visual studio 2010\Projects\aliyunService\aliyunService\bin\Debug\MobilePocService.dll
+c:\users\administrator\documents\visual studio 2010\Projects\aliyunService\aliyunService\bin\Debug\WebUnicomAction.dll
+c:\users\administrator\documents\visual studio 2010\Projects\aliyunService\aliyunService\bin\Debug\ClassLibrary2.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\aliyunService\aliyunService\bin\Debug\MobilePocService.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\aliyunService\aliyunService\bin\Debug\WebUnicomAction.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\aliyunService\aliyunService\bin\Debug\aliyunService.exe.config
+c:\users\administrator\documents\visual studio 2010\Projects\aliyunService\aliyunService\obj\x86\Debug\aliyunService.Form1.resources
+C:\Users\Administrator\Desktop\113\aliyunService\aliyunService\bin\Debug\aliyunService.exe.config
+C:\Users\Administrator\Desktop\113\aliyunService\aliyunService\obj\x86\Debug\aliyunService.exe
+C:\Users\Administrator\Desktop\113\aliyunService\aliyunService\obj\x86\Debug\aliyunService.pdb
+C:\Users\Administrator\Desktop\113\aliyunService\aliyunService\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\113\aliyunService\aliyunService\obj\x86\Debug\aliyunService.Form1.resources
+C:\Users\Administrator\Desktop\113\aliyunService\aliyunService\obj\x86\Debug\aliyunService.Properties.Resources.resources
+C:\Users\Administrator\Desktop\113\aliyunService\aliyunService\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\113\aliyunService\aliyunService\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\113\aliyunService\aliyunService\bin\Debug\aliyunService.exe
+C:\Users\Administrator\Desktop\113\aliyunService\aliyunService\bin\Debug\aliyunService.pdb
+C:\Users\Administrator\Desktop\113\aliyunService\aliyunService\bin\Debug\ClassLibrary2.dll
+C:\Users\Administrator\Desktop\113\aliyunService\aliyunService\bin\Debug\MobilePocService.dll
+C:\Users\Administrator\Desktop\113\aliyunService\aliyunService\bin\Debug\WebUnicomAction.dll
+C:\Users\Administrator\Desktop\113\aliyunService\aliyunService\bin\Debug\ClassLibrary2.pdb
+C:\Users\Administrator\Desktop\113\aliyunService\aliyunService\bin\Debug\MobilePocService.pdb
+C:\Users\Administrator\Desktop\113\aliyunService\aliyunService\bin\Debug\WebUnicomAction.pdb
+C:\Users\Administrator\Desktop\victory\113\aliyunService\aliyunService\bin\Debug\aliyunService.exe.config
+C:\Users\Administrator\Desktop\victory\113\aliyunService\aliyunService\obj\x86\Debug\aliyunService.exe
+C:\Users\Administrator\Desktop\victory\113\aliyunService\aliyunService\obj\x86\Debug\aliyunService.pdb
+C:\Users\Administrator\Desktop\victory\113\aliyunService\aliyunService\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\victory\113\aliyunService\aliyunService\obj\x86\Debug\aliyunService.Form1.resources
+C:\Users\Administrator\Desktop\victory\113\aliyunService\aliyunService\obj\x86\Debug\aliyunService.Properties.Resources.resources
+C:\Users\Administrator\Desktop\victory\113\aliyunService\aliyunService\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\victory\113\aliyunService\aliyunService\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\victory\113\aliyunService\aliyunService\bin\Debug\aliyunService.exe
+C:\Users\Administrator\Desktop\victory\113\aliyunService\aliyunService\bin\Debug\aliyunService.pdb
+C:\Users\Administrator\Desktop\victory\113\aliyunService\aliyunService\bin\Debug\ClassLibrary2.dll
+C:\Users\Administrator\Desktop\victory\113\aliyunService\aliyunService\bin\Debug\MobilePocService.dll
+C:\Users\Administrator\Desktop\victory\113\aliyunService\aliyunService\bin\Debug\WebUnicomAction.dll
+C:\Users\Administrator\Desktop\victory\113\aliyunService\aliyunService\bin\Debug\ClassLibrary2.pdb
+C:\Users\Administrator\Desktop\victory\113\aliyunService\aliyunService\bin\Debug\MobilePocService.pdb
+C:\Users\Administrator\Desktop\victory\113\aliyunService\aliyunService\bin\Debug\WebUnicomAction.pdb
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\aliyunService\bin\Debug\aliyunService.exe.config
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\aliyunService.exe
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\aliyunService.pdb
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\aliyunService\bin\Debug\aliyunService.exe
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\aliyunService\bin\Debug\aliyunService.pdb
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\aliyunService\bin\Debug\ClassLibrary2.dll
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\aliyunService\bin\Debug\MobilePocService.dll
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\aliyunService\bin\Debug\WebUnicomAction.dll
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\aliyunService\bin\Debug\ClassLibrary2.pdb
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\aliyunService\bin\Debug\MobilePocService.pdb
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\aliyunService\bin\Debug\WebUnicomAction.pdb
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\aliyunService.Form1.resources
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\aliyunService.Properties.Resources.resources
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\aliyunService.exe.config
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\aliyunService.exe
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\aliyunService.pdb
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\aliyunService.exe
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\aliyunService.pdb
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\ClassLibrary2.dll
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\MobilePocService.dll
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\WebUnicomAction.dll
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\ClassLibrary2.pdb
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\MobilePocService.pdb
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\WebUnicomAction.pdb
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\aliyunService.Form1.resources
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\aliyunService.Properties.Resources.resources
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\aliyunService.exe.config
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\aliyunService.exe
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\aliyunService.pdb
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\aliyunService.Form1.resources
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\aliyunService.Properties.Resources.resources
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\aliyunService.exe
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\aliyunService.pdb
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\ClassLibrary2.dll
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\MobilePocService.dll
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\WebUnicomAction.dll
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\ClassLibrary2.pdb
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\MobilePocService.pdb
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\WebUnicomAction.pdb
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\aliyunService.exe.config
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\aliyunService.exe
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\aliyunService.pdb
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\aliyunService.exe
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\aliyunService.pdb
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\ClassLibrary2.dll
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\MobilePocService.dll
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\WebUnicomAction.dll
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\ClassLibrary2.pdb
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\MobilePocService.pdb
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\WebUnicomAction.pdb
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\aliyunService.Form1.resources
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\aliyunService.Properties.Resources.resources
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\aliyunService.exe.config
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\aliyunService.exe
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\aliyunService.pdb
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\aliyunService.exe
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\aliyunService.pdb
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\ClassLibrary2.dll
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\MobilePocService.dll
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\WebUnicomAction.dll
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\ClassLibrary2.pdb
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\MobilePocService.pdb
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\bin\Debug\WebUnicomAction.pdb
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\aliyunService.Form1.resources
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\aliyunService.Properties.Resources.resources
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\aliyunService\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\me2\me\aliyunService\aliyunService\bin\Debug\aliyunService.exe.config
+C:\Users\Administrator\Desktop\me2\me\aliyunService\aliyunService\obj\x86\Debug\aliyunService.exe
+C:\Users\Administrator\Desktop\me2\me\aliyunService\aliyunService\obj\x86\Debug\aliyunService.pdb
+C:\Users\Administrator\Desktop\me2\me\aliyunService\aliyunService\bin\Debug\aliyunService.exe
+C:\Users\Administrator\Desktop\me2\me\aliyunService\aliyunService\bin\Debug\aliyunService.pdb
+C:\Users\Administrator\Desktop\me2\me\aliyunService\aliyunService\bin\Debug\ClassLibrary2.dll
+C:\Users\Administrator\Desktop\me2\me\aliyunService\aliyunService\bin\Debug\MobilePocService.dll
+C:\Users\Administrator\Desktop\me2\me\aliyunService\aliyunService\bin\Debug\WebUnicomAction.dll
+C:\Users\Administrator\Desktop\me2\me\aliyunService\aliyunService\bin\Debug\ClassLibrary2.pdb
+C:\Users\Administrator\Desktop\me2\me\aliyunService\aliyunService\bin\Debug\MobilePocService.pdb
+C:\Users\Administrator\Desktop\me2\me\aliyunService\aliyunService\bin\Debug\WebUnicomAction.pdb
+C:\Users\Administrator\Desktop\me2\me\aliyunService\aliyunService\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\me2\me\aliyunService\aliyunService\obj\x86\Debug\aliyunService.Form1.resources
+C:\Users\Administrator\Desktop\me2\me\aliyunService\aliyunService\obj\x86\Debug\aliyunService.Properties.Resources.resources
+C:\Users\Administrator\Desktop\me2\me\aliyunService\aliyunService\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\me2\me\aliyunService\aliyunService\obj\x86\Debug\GenerateResource.write.1.tlog

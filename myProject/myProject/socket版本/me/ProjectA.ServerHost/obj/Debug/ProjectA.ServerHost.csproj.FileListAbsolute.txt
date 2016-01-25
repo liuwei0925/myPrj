@@ -1,0 +1,293 @@
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe.config
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.Properties.Resources.resources
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.FrmServer.resources
+C:\Users\Administrator\Desktop\work\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe.config
+C:\Users\Administrator\Desktop\work\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\work\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\work\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\work\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\work\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\work\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\work\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\work\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\work\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\work\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.FrmServer.resources
+C:\Users\Administrator\Desktop\work\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.Properties.Resources.resources
+C:\Users\Administrator\Desktop\work\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\work\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\work\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\work\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\l001\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\l001\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.FrmServer.resources
+C:\Users\Administrator\Desktop\l001\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.Properties.Resources.resources
+C:\Users\Administrator\Desktop\l001\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\l001\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\l001\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe.config
+C:\Users\Administrator\Desktop\l001\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\l001\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\l001\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\l001\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\l001\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\l001\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\l001\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\l001\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\l001\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\l001\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\1-5\l001\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\1-5\l001\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.FrmServer.resources
+C:\Users\Administrator\Desktop\1-5\l001\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.Properties.Resources.resources
+C:\Users\Administrator\Desktop\1-5\l001\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\1-5\l001\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\GenerateResource.write.1.tlog
+G:\work\middleware\ProjectA.ServerHost\obj\Debug\ResolveAssemblyReference.cache
+G:\work\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.FrmServer.resources
+G:\work\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.Properties.Resources.resources
+G:\work\middleware\ProjectA.ServerHost\obj\Debug\GenerateResource.read.1.tlog
+G:\work\middleware\ProjectA.ServerHost\obj\Debug\GenerateResource.write.1.tlog
+G:\work\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe.config
+G:\work\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe
+G:\work\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.pdb
+G:\work\middleware\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.dll
+G:\work\middleware\ProjectA.ServerHost\bin\Debug\log4net.dll
+G:\work\middleware\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.dll
+G:\work\middleware\ProjectA.ServerHost\bin\Debug\MySql.Data.dll
+G:\work\middleware\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.pdb
+G:\work\middleware\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.pdb
+G:\work\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.exe
+G:\work\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\1-11\middleware\ProjectA.ServerHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.FrmServer.resources
+C:\Users\Administrator\Desktop\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.Properties.Resources.resources
+C:\Users\Administrator\Desktop\1-11\middleware\ProjectA.ServerHost\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\1-11\middleware\ProjectA.ServerHost\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\1-11\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe.config
+C:\Users\Administrator\Desktop\1-11\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\1-11\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\1-11\middleware\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\1-11\middleware\ProjectA.ServerHost\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\1-11\middleware\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\1-11\middleware\ProjectA.ServerHost\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\1-11\middleware\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\1-11\middleware\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe.config
+C:\Users\Administrator\Desktop\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.FrmServer.resources
+C:\Users\Administrator\Desktop\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.Properties.Resources.resources
+C:\Users\Administrator\Desktop\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe.config
+C:\Users\Administrator\Desktop\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.FrmServer.resources
+C:\Users\Administrator\Desktop\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.Properties.Resources.resources
+C:\Users\Administrator\Desktop\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe.config
+C:\Users\Administrator\Desktop\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.FrmServer.resources
+C:\Users\Administrator\Desktop\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.Properties.Resources.resources
+C:\Users\Administrator\Desktop\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe.config
+C:\Users\Administrator\Desktop\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.FrmServer.resources
+C:\Users\Administrator\Desktop\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.Properties.Resources.resources
+C:\Users\Administrator\Desktop\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe.config
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.FrmServer.resources
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.Properties.Resources.resources
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\backup\备份1\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe.config
+C:\Users\Administrator\Desktop\backup\备份1\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\backup\备份1\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\backup\备份1\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\backup\备份1\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\backup\备份1\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\backup\备份1\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\backup\备份1\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\backup\备份1\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\backup\备份1\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\backup\备份1\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.FrmServer.resources
+C:\Users\Administrator\Desktop\backup\备份1\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.Properties.Resources.resources
+C:\Users\Administrator\Desktop\backup\备份1\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\backup\备份1\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\backup\备份1\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\backup\备份1\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.Properties.Resources.resources
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe.config
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.FrmMain.resources
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe.config
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.FrmMain.resources
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.Properties.Resources.resources
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe.config
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.FrmMain.resources
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.Properties.Resources.resources
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\我的备份1\middleware\ProjectA.ServerHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\我的备份1\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.FrmMain.resources
+C:\Users\Administrator\Desktop\我的备份1\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.Properties.Resources.resources
+C:\Users\Administrator\Desktop\我的备份1\middleware\ProjectA.ServerHost\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\我的备份1\middleware\ProjectA.ServerHost\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\我的备份1\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\我的备份1\middleware\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\我的备份1\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe.config
+C:\Users\Administrator\Desktop\我的备份1\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\我的备份1\middleware\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\我的备份1\middleware\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\我的备份1\middleware\ProjectA.ServerHost\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\我的备份1\middleware\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\我的备份1\middleware\ProjectA.ServerHost\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\我的备份1\middleware\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\我的备份1\middleware\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\me\me\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe.config
+C:\Users\Administrator\Desktop\me\me\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\me\me\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\me\me\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\me\me\ProjectA.ServerHost\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\me\me\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\me\me\ProjectA.ServerHost\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\me\me\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\me\me\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\me\me\ProjectA.ServerHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\me\me\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.FrmMain.resources
+C:\Users\Administrator\Desktop\me\me\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.Properties.Resources.resources
+C:\Users\Administrator\Desktop\me\me\ProjectA.ServerHost\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\me\me\ProjectA.ServerHost\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\me\me\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\me\me\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\me2\me\me\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe.config
+C:\Users\Administrator\Desktop\me2\me\me\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\me2\me\me\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\me2\me\me\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\me2\me\me\ProjectA.ServerHost\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\me2\me\me\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\me2\me\me\ProjectA.ServerHost\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\me2\me\me\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\me2\me\me\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\me2\me\me\ProjectA.ServerHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\me2\me\me\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.FrmMain.resources
+C:\Users\Administrator\Desktop\me2\me\me\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.Properties.Resources.resources
+C:\Users\Administrator\Desktop\me2\me\me\ProjectA.ServerHost\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\me2\me\me\ProjectA.ServerHost\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\me2\me\me\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\me2\me\me\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\myProject\myProject\socket版本\me\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe.config
+C:\Users\Administrator\Desktop\myProject\myProject\socket版本\me\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\myProject\myProject\socket版本\me\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.pdb
+C:\Users\Administrator\Desktop\myProject\myProject\socket版本\me\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\Administrator\Desktop\myProject\myProject\socket版本\me\ProjectA.ServerHost\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\myProject\myProject\socket版本\me\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\myProject\myProject\socket版本\me\ProjectA.ServerHost\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\myProject\myProject\socket版本\me\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\Administrator\Desktop\myProject\myProject\socket版本\me\ProjectA.ServerHost\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\myProject\myProject\socket版本\me\ProjectA.ServerHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\myProject\myProject\socket版本\me\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.FrmMain.resources
+C:\Users\Administrator\Desktop\myProject\myProject\socket版本\me\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.Properties.Resources.resources
+C:\Users\Administrator\Desktop\myProject\myProject\socket版本\me\ProjectA.ServerHost\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\myProject\myProject\socket版本\me\ProjectA.ServerHost\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\myProject\myProject\socket版本\me\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.exe
+C:\Users\Administrator\Desktop\myProject\myProject\socket版本\me\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.pdb

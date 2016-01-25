@@ -1,0 +1,16 @@
+C:\Projects\Utils\Socket Communication - Typed Messages\ClientHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Utils\Socket Communication - Typed Messages\ClientHost\obj\Debug\ProjectA.ClientHost.csproj.GenerateResource.Cache
+C:\Projects\Utils\Socket Communication - Typed Messages\ClientHost\bin\Debug\Communication.Globals.dll
+C:\Projects\Utils\Socket Communication - Typed Messages\ClientHost\bin\Debug\Communication.Globals.pdb
+C:\Projects\Utils\Socket Communication - Typed Messages\ClientHost\obj\Debug\ProjectA.ClientHost.FrmClient.resources
+C:\Projects\Utils\Socket Communication - Typed Messages\ClientHost\obj\Debug\ProjectA.ClientHost.Properties.Resources.resources
+C:\Projects\Utils\Socket Communication - Typed Messages\ClientHost\bin\Debug\ProjectA.ClientHost.exe
+C:\Projects\Utils\Socket Communication - Typed Messages\ClientHost\bin\Debug\ProjectA.ClientHost.pdb
+C:\Projects\Utils\Socket Communication - Typed Messages\ClientHost\bin\Debug\Communication.Remoting.Globals.dll
+C:\Projects\Utils\Socket Communication - Typed Messages\ClientHost\bin\Debug\Communication.Sockets.Core.dll
+C:\Projects\Utils\Socket Communication - Typed Messages\ClientHost\bin\Debug\ProjectA.Protocol.dll
+C:\Projects\Utils\Socket Communication - Typed Messages\ClientHost\bin\Debug\ProjectA.Protocol.pdb
+C:\Projects\Utils\Socket Communication - Typed Messages\ClientHost\bin\Debug\Communication.Sockets.Core.pdb
+C:\Projects\Utils\Socket Communication - Typed Messages\ClientHost\bin\Debug\Communication.Remoting.Globals.pdb
+C:\Projects\Utils\Socket Communication - Typed Messages\ClientHost\obj\Debug\ProjectA.ClientHost.exe
+C:\Projects\Utils\Socket Communication - Typed Messages\ClientHost\obj\Debug\ProjectA.ClientHost.pdb

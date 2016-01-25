@@ -1,0 +1,9 @@
+F:\hangzhou\backup\杭州\中间件\中间件\server\MobilePocService\bin\Release\MobilePocService.dll
+F:\hangzhou\backup\杭州\中间件\中间件\server\MobilePocService\bin\Release\MobilePocService.pdb
+F:\hangzhou\backup\杭州\中间件\中间件\server\MobilePocService\obj\Release\MobilePocService.dll
+F:\hangzhou\backup\杭州\中间件\中间件\server\MobilePocService\obj\Release\MobilePocService.pdb
+C:\Users\kezhaosheng\Desktop\11-18\中间件\server\MobilePocService\bin\Release\MobilePocService.dll
+C:\Users\kezhaosheng\Desktop\11-18\中间件\server\MobilePocService\bin\Release\MobilePocService.pdb
+C:\Users\kezhaosheng\Desktop\11-18\中间件\server\MobilePocService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\kezhaosheng\Desktop\11-18\中间件\server\MobilePocService\obj\Release\MobilePocService.dll
+C:\Users\kezhaosheng\Desktop\11-18\中间件\server\MobilePocService\obj\Release\MobilePocService.pdb

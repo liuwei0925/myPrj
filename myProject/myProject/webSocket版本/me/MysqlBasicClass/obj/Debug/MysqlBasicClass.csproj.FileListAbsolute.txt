@@ -1,0 +1,163 @@
+E:\自己的文件夹\工作学习\现在文件-2014\工程文件\serverProjects\MysqlBasicClass\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+E:\自己的文件夹\工作学习\现在文件-2014\工程文件\serverProjects\MysqlBasicClass\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+E:\自己的文件夹\工作学习\现在文件-2014\工程文件\serverProjects\MysqlBasicClass\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+E:\自己的文件夹\工作学习\现在文件-2014\工程文件\serverProjects\MysqlBasicClass\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+F:\VC_project\serverProjects\MysqlBasicClass\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+F:\VC_project\serverProjects\MysqlBasicClass\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+F:\VC_project\serverProjects\MysqlBasicClass\MysqlBasicClass\obj\Debug\ResolveAssemblyReference.cache
+F:\VC_project\serverProjects\MysqlBasicClass\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+F:\VC_project\serverProjects\MysqlBasicClass\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+F:\VC_project\serverProjects\MysqlBasicClass--mysql\MysqlBasicClass\obj\Debug\ResolveAssemblyReference.cache
+F:\VC_project\serverProjects\MysqlBasicClass--mysql\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+F:\VC_project\serverProjects\MysqlBasicClass--mysql\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+F:\VC_project\serverProjects\MysqlBasicClass--mysql\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+F:\VC_project\serverProjects\MysqlBasicClass--mysql\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+F:\VC_project\serverProjects\普天\MysqlBasicClass--mysql\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+F:\VC_project\serverProjects\普天\MysqlBasicClass--mysql\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+F:\VC_project\serverProjects\普天\MysqlBasicClass--mysql\MysqlBasicClass\obj\Debug\ResolveAssemblyReference.cache
+F:\VC_project\serverProjects\普天\MysqlBasicClass--mysql\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+F:\VC_project\serverProjects\普天\MysqlBasicClass--mysql\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+F:\kezhaosheng_work\hangzhoi_ims\MysqlBasicClass--mysql\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+F:\kezhaosheng_work\hangzhoi_ims\MysqlBasicClass--mysql\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+F:\kezhaosheng_work\hangzhoi_ims\MysqlBasicClass--mysql\MysqlBasicClass\obj\Debug\ResolveAssemblyReference.cache
+F:\kezhaosheng_work\hangzhoi_ims\MysqlBasicClass--mysql\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+F:\kezhaosheng_work\hangzhoi_ims\MysqlBasicClass--mysql\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+F:\kezhaosheng_work\code\zhongjianjian_new\zhongjianjan_internal\MysqlBasicClass--mysql\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+F:\kezhaosheng_work\code\zhongjianjian_new\zhongjianjan_internal\MysqlBasicClass--mysql\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+F:\kezhaosheng_work\code\zhongjianjian_new\zhongjianjan_internal\MysqlBasicClass--mysql\MysqlBasicClass\obj\Debug\ResolveAssemblyReference.cache
+F:\kezhaosheng_work\code\zhongjianjian_new\zhongjianjan_internal\MysqlBasicClass--mysql\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+F:\kezhaosheng_work\code\zhongjianjian_new\zhongjianjan_internal\MysqlBasicClass--mysql\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+F:\kezhaosheng_work\code\zhongjianjian_new _msg_bus\zhongjianjan_internal\MysqlBasicClass--mysql\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+F:\kezhaosheng_work\code\zhongjianjian_new _msg_bus\zhongjianjan_internal\MysqlBasicClass--mysql\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+F:\kezhaosheng_work\code\zhongjianjian_new _msg_bus\zhongjianjan_internal\MysqlBasicClass--mysql\MysqlBasicClass\obj\Debug\ResolveAssemblyReference.cache
+F:\kezhaosheng_work\code\zhongjianjian_new _msg_bus\zhongjianjan_internal\MysqlBasicClass--mysql\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+F:\kezhaosheng_work\code\zhongjianjian_new _msg_bus\zhongjianjan_internal\MysqlBasicClass--mysql\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\zhongjianjian_new _msg_bus\zhongjianjan_internal\MysqlBasicClass--mysql\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\zhongjianjian_new _msg_bus\zhongjianjan_internal\MysqlBasicClass--mysql\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\zhongjianjian_new _msg_bus\zhongjianjan_internal\MysqlBasicClass--mysql\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\zhongjianjian_new _msg_bus\zhongjianjan_internal\MysqlBasicClass--mysql\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\zhongjianjian_new _msg_bus\zhongjianjan_internal\MysqlBasicClass--mysql\MysqlBasicClass\obj\Debug\MysqlBasicClass.csprojResolveAssemblyReference.cache
+C:\Users\kezhaosheng\Desktop\tmp\internal\MysqlBasicClass--mysql\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+C:\Users\kezhaosheng\Desktop\tmp\internal\MysqlBasicClass--mysql\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+C:\Users\kezhaosheng\Desktop\tmp\internal\MysqlBasicClass--mysql\MysqlBasicClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kezhaosheng\Desktop\tmp\internal\MysqlBasicClass--mysql\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+C:\Users\kezhaosheng\Desktop\tmp\internal\MysqlBasicClass--mysql\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+F:\hangzhou\backup\杭州\中间件\中间件\internal\MysqlBasicClass--mysql\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+F:\hangzhou\backup\杭州\中间件\中间件\internal\MysqlBasicClass--mysql\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+F:\hangzhou\backup\杭州\中间件\中间件\internal\MysqlBasicClass--mysql\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+F:\hangzhou\backup\杭州\中间件\中间件\internal\MysqlBasicClass--mysql\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+C:\Users\kezhaosheng\Desktop\11-18\中间件\internal\MysqlBasicClass--mysql\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+C:\Users\kezhaosheng\Desktop\11-18\中间件\internal\MysqlBasicClass--mysql\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+C:\Users\kezhaosheng\Desktop\11-18\中间件\internal\MysqlBasicClass--mysql\MysqlBasicClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kezhaosheng\Desktop\11-18\中间件\internal\MysqlBasicClass--mysql\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+C:\Users\kezhaosheng\Desktop\11-18\中间件\internal\MysqlBasicClass--mysql\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+C:\Users\kezhaosheng\Desktop\11-18备份\中间件\internal\MysqlBasicClass--mysql\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+C:\Users\kezhaosheng\Desktop\11-18备份\中间件\internal\MysqlBasicClass--mysql\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+C:\Users\kezhaosheng\Desktop\11-18备份\中间件\internal\MysqlBasicClass--mysql\MysqlBasicClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kezhaosheng\Desktop\11-18备份\中间件\internal\MysqlBasicClass--mysql\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+C:\Users\kezhaosheng\Desktop\11-18备份\中间件\internal\MysqlBasicClass--mysql\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+C:\Users\kezhaosheng\Documents\Visual Studio 2010\Projects\middleware_internal\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+C:\Users\kezhaosheng\Documents\Visual Studio 2010\Projects\middleware_internal\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+C:\Users\kezhaosheng\Documents\Visual Studio 2010\Projects\middleware_internal\MysqlBasicClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kezhaosheng\Documents\Visual Studio 2010\Projects\middleware_internal\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+C:\Users\kezhaosheng\Documents\Visual Studio 2010\Projects\middleware_internal\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\middleware_internal\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\middleware_internal\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\middleware_internal\MysqlBasicClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\middleware_internal\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\middleware_internal\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\MysqlBasicClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\12-30\Sockets Multiple Clients - Bytes\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\work\Sockets Multiple Clients - Bytes\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\work\Sockets Multiple Clients - Bytes\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\work\Sockets Multiple Clients - Bytes\MysqlBasicClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\work\Sockets Multiple Clients - Bytes\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\work\Sockets Multiple Clients - Bytes\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\l001\Sockets Multiple Clients - Bytes\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\l001\Sockets Multiple Clients - Bytes\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\l001\Sockets Multiple Clients - Bytes\MysqlBasicClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\l001\Sockets Multiple Clients - Bytes\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\l001\Sockets Multiple Clients - Bytes\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\1-5\l001\Sockets Multiple Clients - Bytes\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\1-5\l001\Sockets Multiple Clients - Bytes\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\1-5\l001\Sockets Multiple Clients - Bytes\MysqlBasicClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\1-5\l001\Sockets Multiple Clients - Bytes\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\1-5\l001\Sockets Multiple Clients - Bytes\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+G:\work\middleware\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+G:\work\middleware\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+G:\work\middleware\MysqlBasicClass\obj\Debug\ResolveAssemblyReference.cache
+G:\work\middleware\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+G:\work\middleware\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\1-11\middleware\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\1-11\middleware\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\1-11\middleware\MysqlBasicClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\1-11\middleware\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\1-11\middleware\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\1-12\1-11\middleware\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\1-12\1-11\middleware\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\1-12\1-11\middleware\MysqlBasicClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\1-12\1-11\middleware\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\1-12\1-11\middleware\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\113\1-12\1-11\middleware\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\113\1-12\1-11\middleware\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\113\1-12\1-11\middleware\MysqlBasicClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\113\1-12\1-11\middleware\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\113\1-12\1-11\middleware\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\victory\113\1-12\1-11\middleware\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\victory\113\1-12\1-11\middleware\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\victory\113\1-12\1-11\middleware\MysqlBasicClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\victory\113\1-12\1-11\middleware\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\victory\113\1-12\1-11\middleware\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\victory\victory\113\1-12\1-11\middleware\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\victory\victory\113\1-12\1-11\middleware\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\victory\victory\113\1-12\1-11\middleware\MysqlBasicClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\victory\victory\113\1-12\1-11\middleware\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\victory\victory\113\1-12\1-11\middleware\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\1-12\1-11\middleware\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\1-12\1-11\middleware\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\1-12\1-11\middleware\MysqlBasicClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\1-12\1-11\middleware\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\1-12\1-11\middleware\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\1-12\1-11\middleware\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\1-12\1-11\middleware\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\1-12\1-11\middleware\MysqlBasicClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\1-12\1-11\middleware\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\1-12\1-11\middleware\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\MysqlBasicClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\MysqlBasicClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\1-12\1-11\middleware\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\我的备份1\middleware\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\我的备份1\middleware\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\我的备份1\middleware\MysqlBasicClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\我的备份1\middleware\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\我的备份1\middleware\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\me\me\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\me\me\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\me\me\MysqlBasicClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\me\me\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\me\me\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\me2\me\me\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\me2\me\me\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\me2\me\me\MysqlBasicClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\me2\me\me\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\me2\me\me\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\html5\me2\me\me\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\html5\me2\me\me\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\html5\me2\me\me\MysqlBasicClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\html5\me2\me\me\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\html5\me2\me\me\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\New\html5\html5\me2\me\me\MysqlBasicClass\bin\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\New\html5\html5\me2\me\me\MysqlBasicClass\bin\Debug\MysqlBasicClass.pdb
+C:\Users\Administrator\Desktop\New\html5\html5\me2\me\me\MysqlBasicClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\New\html5\html5\me2\me\me\MysqlBasicClass\obj\Debug\MysqlBasicClass.dll
+C:\Users\Administrator\Desktop\New\html5\html5\me2\me\me\MysqlBasicClass\obj\Debug\MysqlBasicClass.pdb

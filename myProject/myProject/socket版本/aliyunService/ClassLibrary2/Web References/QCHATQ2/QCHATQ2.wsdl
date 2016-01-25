@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:intf="http://qed.qchat.telecom.cn" xmlns:apachesoap="http://xml.apache.org/xml-soap" xmlns:wsdlsoap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:impl="http://qed.qchat.telecom.cn" targetNamespace="http://qed.qchat.telecom.cn" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema xmlns="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://qed.qchat.telecom.cn">
+      <xsd:element name="Username" type="xsd:string" />
+      <xsd:element name="Password" type="xsd:string" />
+      <xsd:element name="Sequence" type="xsd:string" />
+      <xsd:element name="DeviceID" type="xsd:string" />
+      <xsd:element name="queryCompany">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="request" type="impl:QedRequest" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:complexType name="GroupMemberInfo">
+        <xsd:sequence>
+          <xsd:element name="level" type="xsd:int" />
+          <xsd:element minOccurs="0" name="name" type="xsd:string" />
+          <xsd:element minOccurs="0" name="number" type="xsd:string" />
+          <xsd:element name="type" type="xsd:int" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="GroupMemberRequest">
+        <xsd:sequence>
+          <xsd:element name="memberSize" type="xsd:int" />
+          <xsd:element minOccurs="0" name="groupCode" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="unbounded" name="gMemInfo" type="impl:GroupMemberInfo" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="GroupInfo">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" name="code" type="xsd:string" />
+          <xsd:element minOccurs="0" name="domain" type="xsd:string" />
+          <xsd:element name="memberCount" type="xsd:int" />
+          <xsd:element minOccurs="0" name="name" type="xsd:string" />
+          <xsd:element minOccurs="0" name="policy" type="xsd:string" />
+          <xsd:element minOccurs="0" name="title" type="xsd:string" />
+          <xsd:element name="type" type="xsd:int" />
+          <xsd:element minOccurs="0" name="codec" type="xsd:int" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="GroupRequest">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" name="groupInfo" type="impl:GroupInfo" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="AddGroupRequest">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" name="adminAccount" type="xsd:string" />
+          <xsd:element minOccurs="0" name="groupInfo" type="impl:GroupInfo" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="QueryRequest">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" name="mainParam" type="xsd:string" />
+          <xsd:element name="pageSize" type="xsd:int" />
+          <xsd:element name="startPos" type="xsd:int" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="UserInfo">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" name="callRestriction" type="xsd:string" />
+          <xsd:element minOccurs="0" name="imsi" type="xsd:string" />
+          <xsd:element minOccurs="0" name="level" type="xsd:string" />
+          <xsd:element minOccurs="0" name="name" type="xsd:string" />
+          <xsd:element minOccurs="0" name="number" type="xsd:string" />
+          <xsd:element minOccurs="0" name="status" type="xsd:string" />
+          <xsd:element minOccurs="0" name="domain" type="xsd:string" />
+          <xsd:element minOccurs="0" name="password" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="UserRequest">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" name="userInfo" type="impl:UserInfo" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="QedRequest">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" name="groupMemRequest" type="impl:GroupMemberRequest" />
+          <xsd:element minOccurs="0" name="addGroupRequest" type="impl:AddGroupRequest" />
+          <xsd:element minOccurs="0" name="groupRequest" type="impl:GroupRequest" />
+          <xsd:element minOccurs="0" name="queryRequest" type="impl:QueryRequest" />
+          <xsd:element minOccurs="0" name="userRequest" type="impl:UserRequest" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="queryCompanyResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="qedResponse" type="impl:QedResponse" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:complexType name="Response">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" name="description" type="xsd:string" />
+          <xsd:element minOccurs="0" name="reserve" type="xsd:string" />
+          <xsd:element minOccurs="0" name="returnCode" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="QueryGroupMemberResponse">
+        <xsd:sequence>
+          <xsd:element name="count" type="xsd:int" />
+          <xsd:element minOccurs="0" name="response" type="impl:Response" />
+          <xsd:element minOccurs="0" maxOccurs="unbounded" name="gMemInfo" type="impl:GroupMemberInfo" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="UserGroupInfo">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" name="companyID" type="xsd:string" />
+          <xsd:element minOccurs="0" name="groupCode" type="xsd:string" />
+          <xsd:element minOccurs="0" name="groupName" type="xsd:string" />
+          <xsd:element name="groupType" type="xsd:int" />
+          <xsd:element name="level" type="xsd:int" />
+          <xsd:element minOccurs="0" name="memberAliasName" type="xsd:string" />
+          <xsd:element name="memberType" type="xsd:int" />
+          <xsd:element name="policy" type="xsd:int" />
+          <xsd:element minOccurs="0" name="title" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="UserGroupResponse">
+        <xsd:sequence>
+          <xsd:element name="count" type="xsd:int" />
+          <xsd:element minOccurs="0" name="response" type="impl:Response" />
+          <xsd:element minOccurs="0" maxOccurs="unbounded" name="userGroupInfo" type="impl:UserGroupInfo" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="CompanyGroupResponse">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="unbounded" name="groupInfo" type="impl:GroupInfo" />
+          <xsd:element name="count" type="xsd:int" />
+          <xsd:element minOccurs="0" name="response" type="impl:Response" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="CompanyUserResponse">
+        <xsd:sequence>
+          <xsd:element name="count" type="xsd:int" />
+          <xsd:element minOccurs="0" name="response" type="impl:Response" />
+          <xsd:element minOccurs="0" maxOccurs="unbounded" name="userInfo" type="impl:UserInfo" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="CompanyInfo">
+        <xsd:sequence>
+          <xsd:element name="adminCount" type="xsd:int" />
+          <xsd:element minOccurs="0" name="companyName" type="xsd:string" />
+          <xsd:element name="groupCount" type="xsd:int" />
+          <xsd:element name="userCount" type="xsd:int" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="CompanyResponse">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" name="response" type="impl:Response" />
+          <xsd:element minOccurs="0" name="companyInfo" type="impl:CompanyInfo" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="GroupMemberResponse">
+        <xsd:sequence>
+          <xsd:element name="count" type="xsd:int" />
+          <xsd:element minOccurs="0" maxOccurs="unbounded" name="response" type="impl:Response" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="GroupResponse">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" name="groupInfo" type="impl:GroupInfo" />
+          <xsd:element minOccurs="0" name="response" type="impl:Response" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="AddGroupResponse">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" name="response" type="impl:Response" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="DeleteGroupResponse">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" name="response" type="impl:Response" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="GroupUpdateResponse">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" name="response" type="impl:Response" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="UserResponse">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" name="response" type="impl:Response" />
+          <xsd:element minOccurs="0" name="userInfo" type="impl:UserInfo" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="QedResponse">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" name="QGMemResponse" type="impl:QueryGroupMemberResponse" />
+          <xsd:element minOccurs="0" name="UGroupResponse" type="impl:UserGroupResponse" />
+          <xsd:element minOccurs="0" name="companyGroupResponse" type="impl:CompanyGroupResponse" />
+          <xsd:element minOccurs="0" name="companyUserResponse" type="impl:CompanyUserResponse" />
+          <xsd:element minOccurs="0" name="companyResponse" type="impl:CompanyResponse" />
+          <xsd:element minOccurs="0" name="groupMemResponse" type="impl:GroupMemberResponse" />
+          <xsd:element minOccurs="0" name="groupResponse" type="impl:GroupResponse" />
+          <xsd:element minOccurs="0" name="addGroupResponse" type="impl:AddGroupResponse" />
+          <xsd:element minOccurs="0" name="deleteGroupResponse" type="impl:DeleteGroupResponse" />
+          <xsd:element minOccurs="0" name="groupUpdateResponse" type="impl:GroupUpdateResponse" />
+          <xsd:element minOccurs="0" name="userResponse" type="impl:UserResponse" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="queryCompanyGroup">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="request" type="impl:QedRequest" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="queryCompanyGroupResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="qedResponse" type="impl:QedResponse" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="queryCompanyUser">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="request" type="impl:QedRequest" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="queryCompanyUserResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="qedResponse" type="impl:QedResponse" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="queryGroup">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="request" type="impl:QedRequest" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="queryGroupResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="qedResponse" type="impl:QedResponse" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="addGroup">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="request" type="impl:QedRequest" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="deleteGroup">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="request" type="impl:QedRequest" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="updateGroup">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="request" type="impl:QedRequest" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="addGroupResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="qedResponse" type="impl:QedResponse" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="deleteGroupResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="qedResponse" type="impl:QedResponse" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="updateGroupResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="qedResponse" type="impl:QedResponse" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="queryGroupMember">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="request" type="impl:QedRequest" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="queryGroupMemberResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="qedResponse" type="impl:QedResponse" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="addGroupMember">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="request" type="impl:QedRequest" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="addGroupMemberResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="qedResponse" type="impl:QedResponse" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="updateGroupMember">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="request" type="impl:QedRequest" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="updateGroupMemberResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="qedResponse" type="impl:QedResponse" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="deleteGroupMember">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="request" type="impl:QedRequest" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="deleteGroupMemberResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="qedResponse" type="impl:QedResponse" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="queryUser">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="request" type="impl:QedRequest" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="queryUserResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="qedResponse" type="impl:QedResponse" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="queryUserGroup">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="request" type="impl:QedRequest" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="queryUserGroupResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="qedResponse" type="impl:QedResponse" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="updateUser">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="request" type="impl:QedRequest" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="updateUserResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="qedResponse" type="impl:QedResponse" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="updateUserStatus">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="request" type="impl:QedRequest" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="updateUserStatusResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="qedResponse" type="impl:QedResponse" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="queryGroupResponse">
+    <wsdl:part name="parameters" element="impl:queryGroupResponse" />
+  </wsdl:message>
+  <wsdl:message name="updateUserResponse">
+    <wsdl:part name="parameters" element="impl:updateUserResponse" />
+  </wsdl:message>
+  <wsdl:message name="updateGroupMemberResponse">
+    <wsdl:part name="parameters" element="impl:updateGroupMemberResponse" />
+  </wsdl:message>
+  <wsdl:message name="queryCompanyRequest">
+    <wsdl:part name="parameters" element="impl:queryCompany" />
+  </wsdl:message>
+  <wsdl:message name="updateUserStatusResponse">
+    <wsdl:part name="parameters" element="impl:updateUserStatusResponse" />
+  </wsdl:message>
+  <wsdl:message name="queryCompanyUserRequest">
+    <wsdl:part name="parameters" element="impl:queryCompanyUser" />
+  </wsdl:message>
+  <wsdl:message name="updateGroupRequest">
+    <wsdl:part name="parameters" element="impl:updateGroup" />
+  </wsdl:message>
+  <wsdl:message name="queryCompanyGroupRequest">
+    <wsdl:part name="parameters" element="impl:queryCompanyGroup" />
+  </wsdl:message>
+  <wsdl:message name="queryUserRequest">
+    <wsdl:part name="parameters" element="impl:queryUser" />
+  </wsdl:message>
+  <wsdl:message name="RequestSOAPHeader">
+    <wsdl:part name="Username" element="impl:Username" />
+    <wsdl:part name="Password" element="impl:Password" />
+    <wsdl:part name="DeviceID" element="impl:DeviceID" />
+    <wsdl:part name="Sequence" element="impl:Sequence" />
+  </wsdl:message>
+  <wsdl:message name="updateGroupResponse">
+    <wsdl:part name="parameters" element="impl:updateGroupResponse" />
+  </wsdl:message>
+  <wsdl:message name="queryCompanyUserResponse">
+    <wsdl:part name="parameters" element="impl:queryCompanyUserResponse" />
+  </wsdl:message>
+  <wsdl:message name="queryGroupMemberRequest">
+    <wsdl:part name="parameters" element="impl:queryGroupMember" />
+  </wsdl:message>
+  <wsdl:message name="deleteGroupResponse">
+    <wsdl:part name="parameters" element="impl:deleteGroupResponse" />
+  </wsdl:message>
+  <wsdl:message name="updateUserStatusRequest">
+    <wsdl:part name="parameters" element="impl:updateUserStatus" />
+  </wsdl:message>
+  <wsdl:message name="queryCompanyResponse">
+    <wsdl:part name="parameters" element="impl:queryCompanyResponse" />
+  </wsdl:message>
+  <wsdl:message name="addGroupMemberResponse">
+    <wsdl:part name="parameters" element="impl:addGroupMemberResponse" />
+  </wsdl:message>
+  <wsdl:message name="updateGroupMemberRequest">
+    <wsdl:part name="parameters" element="impl:updateGroupMember" />
+  </wsdl:message>
+  <wsdl:message name="deleteGroupMemberRequest">
+    <wsdl:part name="parameters" element="impl:deleteGroupMember" />
+  </wsdl:message>
+  <wsdl:message name="deleteGroupRequest">
+    <wsdl:part name="parameters" element="impl:deleteGroup" />
+  </wsdl:message>
+  <wsdl:message name="addGroupMemberRequest">
+    <wsdl:part name="parameters" element="impl:addGroupMember" />
+  </wsdl:message>
+  <wsdl:message name="deleteGroupMemberResponse">
+    <wsdl:part name="parameters" element="impl:deleteGroupMemberResponse" />
+  </wsdl:message>
+  <wsdl:message name="queryCompanyGroupResponse">
+    <wsdl:part name="parameters" element="impl:queryCompanyGroupResponse" />
+  </wsdl:message>
+  <wsdl:message name="queryGroupMemberResponse">
+    <wsdl:part name="parameters" element="impl:queryGroupMemberResponse" />
+  </wsdl:message>
+  <wsdl:message name="queryUserResponse">
+    <wsdl:part name="parameters" element="impl:queryUserResponse" />
+  </wsdl:message>
+  <wsdl:message name="addGroupRequest">
+    <wsdl:part name="parameters" element="impl:addGroup" />
+  </wsdl:message>
+  <wsdl:message name="queryUserGroupResponse">
+    <wsdl:part name="parameters" element="impl:queryUserGroupResponse" />
+  </wsdl:message>
+  <wsdl:message name="addGroupResponse">
+    <wsdl:part name="parameters" element="impl:addGroupResponse" />
+  </wsdl:message>
+  <wsdl:message name="updateUserRequest">
+    <wsdl:part name="parameters" element="impl:updateUser" />
+  </wsdl:message>
+  <wsdl:message name="queryUserGroupRequest">
+    <wsdl:part name="parameters" element="impl:queryUserGroup" />
+  </wsdl:message>
+  <wsdl:message name="queryGroupRequest">
+    <wsdl:part name="parameters" element="impl:queryGroup" />
+  </wsdl:message>
+  <wsdl:portType name="QchatQED">
+    <wsdl:operation name="queryCompany">
+      <wsdl:input name="queryCompanyRequest" message="impl:queryCompanyRequest" />
+      <wsdl:output name="queryCompanyResponse" message="impl:queryCompanyResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="queryCompanyGroup">
+      <wsdl:input name="queryCompanyGroupRequest" message="impl:queryCompanyGroupRequest" />
+      <wsdl:output name="queryCompanyGroupResponse" message="impl:queryCompanyGroupResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="queryCompanyUser">
+      <wsdl:input name="queryCompanyUserRequest" message="impl:queryCompanyUserRequest" />
+      <wsdl:output name="queryCompanyUserResponse" message="impl:queryCompanyUserResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="queryGroup">
+      <wsdl:input name="queryGroupRequest" message="impl:queryGroupRequest" />
+      <wsdl:output name="queryGroupResponse" message="impl:queryGroupResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="addGroup">
+      <wsdl:input name="addGroupRequest" message="impl:addGroupRequest" />
+      <wsdl:output name="addGroupResponse" message="impl:addGroupResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="deleteGroup">
+      <wsdl:input name="deleteGroupRequest" message="impl:deleteGroupRequest" />
+      <wsdl:output name="deleteGroupResponse" message="impl:deleteGroupResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="updateGroup">
+      <wsdl:input name="updateGroupRequest" message="impl:updateGroupRequest" />
+      <wsdl:output name="updateGroupResponse" message="impl:updateGroupResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="queryGroupMember">
+      <wsdl:input name="queryGroupMemberRequest" message="impl:queryGroupMemberRequest" />
+      <wsdl:output name="queryGroupMemberResponse" message="impl:queryGroupMemberResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="addGroupMember">
+      <wsdl:input name="addGroupMemberRequest" message="impl:addGroupMemberRequest" />
+      <wsdl:output name="addGroupMemberResponse" message="impl:addGroupMemberResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="updateGroupMember">
+      <wsdl:input name="updateGroupMemberRequest" message="impl:updateGroupMemberRequest" />
+      <wsdl:output name="updateGroupMemberResponse" message="impl:updateGroupMemberResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="deleteGroupMember">
+      <wsdl:input name="deleteGroupMemberRequest" message="impl:deleteGroupMemberRequest" />
+      <wsdl:output name="deleteGroupMemberResponse" message="impl:deleteGroupMemberResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="queryUser">
+      <wsdl:input name="queryUserRequest" message="impl:queryUserRequest" />
+      <wsdl:output name="queryUserResponse" message="impl:queryUserResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="queryUserGroup">
+      <wsdl:input name="queryUserGroupRequest" message="impl:queryUserGroupRequest" />
+      <wsdl:output name="queryUserGroupResponse" message="impl:queryUserGroupResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="updateUser">
+      <wsdl:input name="updateUserRequest" message="impl:updateUserRequest" />
+      <wsdl:output name="updateUserResponse" message="impl:updateUserResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="updateUserStatus">
+      <wsdl:input name="updateUserStatusRequest" message="impl:updateUserStatusRequest" />
+      <wsdl:output name="updateUserStatusResponse" message="impl:updateUserStatusResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="QchatQEDSoapBinding" type="impl:QchatQED">
+    <wsdlsoap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="queryCompany">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="queryCompanyRequest">
+        <wsdlsoap:body use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Username" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Password" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="DeviceID" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Sequence" use="literal" />
+      </wsdl:input>
+      <wsdl:output name="queryCompanyResponse">
+        <wsdlsoap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="queryCompanyGroup">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="queryCompanyGroupRequest">
+        <wsdlsoap:body use="literal" />
+        <wsdlsoap:body use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Username" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Password" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="DeviceID" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Sequence" use="literal" />
+      </wsdl:input>
+      <wsdl:output name="queryCompanyGroupResponse">
+        <wsdlsoap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="queryCompanyUser">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="queryCompanyUserRequest">
+        <wsdlsoap:body use="literal" />
+        <wsdlsoap:body use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Username" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Password" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="DeviceID" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Sequence" use="literal" />
+      </wsdl:input>
+      <wsdl:output name="queryCompanyUserResponse">
+        <wsdlsoap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="queryGroup">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="queryGroupRequest">
+        <wsdlsoap:body use="literal" />
+        <wsdlsoap:body use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Username" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Password" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="DeviceID" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Sequence" use="literal" />
+      </wsdl:input>
+      <wsdl:output name="queryGroupResponse">
+        <wsdlsoap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="addGroup">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="addGroupRequest">
+        <wsdlsoap:body use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Username" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Password" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="DeviceID" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Sequence" use="literal" />
+      </wsdl:input>
+      <wsdl:output name="addGroupResponse">
+        <wsdlsoap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="deleteGroup">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="deleteGroupRequest">
+        <wsdlsoap:body use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Username" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Password" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="DeviceID" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Sequence" use="literal" />
+      </wsdl:input>
+      <wsdl:output name="deleteGroupResponse">
+        <wsdlsoap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="updateGroup">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="updateGroupRequest">
+        <wsdlsoap:body use="literal" />
+        <wsdlsoap:body use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Username" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Password" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="DeviceID" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Sequence" use="literal" />
+      </wsdl:input>
+      <wsdl:output name="updateGroupResponse">
+        <wsdlsoap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="queryGroupMember">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="queryGroupMemberRequest">
+        <wsdlsoap:body use="literal" />
+        <wsdlsoap:body use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Username" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Password" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="DeviceID" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Sequence" use="literal" />
+      </wsdl:input>
+      <wsdl:output name="queryGroupMemberResponse">
+        <wsdlsoap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="addGroupMember">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="addGroupMemberRequest">
+        <wsdlsoap:body use="literal" />
+        <wsdlsoap:body use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Username" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Password" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="DeviceID" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Sequence" use="literal" />
+      </wsdl:input>
+      <wsdl:output name="addGroupMemberResponse">
+        <wsdlsoap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="updateGroupMember">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="updateGroupMemberRequest">
+        <wsdlsoap:body use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Username" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Password" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="DeviceID" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Sequence" use="literal" />
+        <wsdlsoap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="updateGroupMemberResponse">
+        <wsdlsoap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="deleteGroupMember">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="deleteGroupMemberRequest">
+        <wsdlsoap:body use="literal" />
+        <wsdlsoap:body use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Username" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Password" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="DeviceID" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Sequence" use="literal" />
+      </wsdl:input>
+      <wsdl:output name="deleteGroupMemberResponse">
+        <wsdlsoap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="queryUser">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="queryUserRequest">
+        <wsdlsoap:body use="literal" />
+        <wsdlsoap:body use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Username" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Password" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="DeviceID" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Sequence" use="literal" />
+      </wsdl:input>
+      <wsdl:output name="queryUserResponse">
+        <wsdlsoap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="queryUserGroup">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="queryUserGroupRequest">
+        <wsdlsoap:body use="literal" />
+        <wsdlsoap:body use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Username" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Password" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="DeviceID" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Sequence" use="literal" />
+      </wsdl:input>
+      <wsdl:output name="queryUserGroupResponse">
+        <wsdlsoap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="updateUser">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="updateUserRequest">
+        <wsdlsoap:body use="literal" />
+        <wsdlsoap:body use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Username" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Password" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="DeviceID" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Sequence" use="literal" />
+      </wsdl:input>
+      <wsdl:output name="updateUserResponse">
+        <wsdlsoap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="updateUserStatus">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="updateUserStatusRequest">
+        <wsdlsoap:body use="literal" />
+        <wsdlsoap:body use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Username" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Password" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="DeviceID" use="literal" />
+        <wsdlsoap:header message="impl:RequestSOAPHeader" part="Sequence" use="literal" />
+      </wsdl:input>
+      <wsdl:output name="updateUserStatusResponse">
+        <wsdlsoap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="QchatQEDService">
+    <wsdl:port name="QchatQED" binding="impl:QchatQEDSoapBinding">
+      <wsdlsoap:address location="http://localhost:8080/QED_CPS/services/QchatQED" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

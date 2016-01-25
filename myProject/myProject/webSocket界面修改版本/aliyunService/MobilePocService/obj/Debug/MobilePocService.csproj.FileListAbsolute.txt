@@ -1,0 +1,78 @@
+C:\Users\Administrator\Desktop\zhongjianjan_server\MobilePocService\bin\Debug\MobilePocService.dll
+C:\Users\Administrator\Desktop\zhongjianjan_server\MobilePocService\bin\Debug\MobilePocService.pdb
+C:\Users\Administrator\Desktop\zhongjianjan_server\MobilePocService\obj\Debug\MobilePocService.dll
+C:\Users\Administrator\Desktop\zhongjianjan_server\MobilePocService\obj\Debug\MobilePocService.pdb
+C:\Users\Administrator\Desktop\zhongjianjan_server\MobilePocService\obj\Debug\MobilePocService.csprojResolveAssemblyReference.cache
+F:\kezhaosheng_work\code\zhongjianjian_new\zhongjianjan_server\MobilePocService\bin\Debug\MobilePocService.dll
+F:\kezhaosheng_work\code\zhongjianjian_new\zhongjianjan_server\MobilePocService\bin\Debug\MobilePocService.pdb
+F:\kezhaosheng_work\code\zhongjianjian_new\zhongjianjan_server\MobilePocService\obj\Debug\ResolveAssemblyReference.cache
+F:\kezhaosheng_work\code\zhongjianjian_new\zhongjianjan_server\MobilePocService\obj\Debug\MobilePocService.dll
+F:\kezhaosheng_work\code\zhongjianjian_new\zhongjianjan_server\MobilePocService\obj\Debug\MobilePocService.pdb
+C:\Users\Administrator\Desktop\zhongjianjian_new _msg_bus\zhongjianjan_server\MobilePocService\bin\Debug\MobilePocService.dll
+C:\Users\Administrator\Desktop\zhongjianjian_new _msg_bus\zhongjianjan_server\MobilePocService\bin\Debug\MobilePocService.pdb
+C:\Users\Administrator\Desktop\zhongjianjian_new _msg_bus\zhongjianjan_server\MobilePocService\obj\Debug\MobilePocService.dll
+C:\Users\Administrator\Desktop\zhongjianjian_new _msg_bus\zhongjianjan_server\MobilePocService\obj\Debug\MobilePocService.pdb
+C:\Users\kezhaosheng\Desktop\tmp\server\MobilePocService\bin\Debug\MobilePocService.dll
+C:\Users\kezhaosheng\Desktop\tmp\server\MobilePocService\bin\Debug\MobilePocService.pdb
+C:\Users\kezhaosheng\Desktop\tmp\server\MobilePocService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kezhaosheng\Desktop\tmp\server\MobilePocService\obj\Debug\MobilePocService.dll
+C:\Users\kezhaosheng\Desktop\tmp\server\MobilePocService\obj\Debug\MobilePocService.pdb
+F:\hangzhou\backup\杭州\中间件\中间件\server\MobilePocService\bin\Debug\MobilePocService.dll
+F:\hangzhou\backup\杭州\中间件\中间件\server\MobilePocService\bin\Debug\MobilePocService.pdb
+F:\hangzhou\backup\杭州\中间件\中间件\server\MobilePocService\obj\Debug\MobilePocService.dll
+F:\hangzhou\backup\杭州\中间件\中间件\server\MobilePocService\obj\Debug\MobilePocService.pdb
+C:\Users\kezhaosheng\Desktop\11-18\中间件\server\MobilePocService\bin\Debug\MobilePocService.dll
+C:\Users\kezhaosheng\Desktop\11-18\中间件\server\MobilePocService\bin\Debug\MobilePocService.pdb
+C:\Users\kezhaosheng\Desktop\11-18\中间件\server\MobilePocService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kezhaosheng\Desktop\11-18\中间件\server\MobilePocService\obj\Debug\MobilePocService.dll
+C:\Users\kezhaosheng\Desktop\11-18\中间件\server\MobilePocService\obj\Debug\MobilePocService.pdb
+C:\Users\kezhaosheng\Documents\Visual Studio 2010\Projects\middleware_external\MobilePocService\bin\Debug\MobilePocService.dll
+C:\Users\kezhaosheng\Documents\Visual Studio 2010\Projects\middleware_external\MobilePocService\bin\Debug\MobilePocService.pdb
+C:\Users\kezhaosheng\Documents\Visual Studio 2010\Projects\middleware_external\MobilePocService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kezhaosheng\Documents\Visual Studio 2010\Projects\middleware_external\MobilePocService\obj\Debug\MobilePocService.dll
+C:\Users\kezhaosheng\Documents\Visual Studio 2010\Projects\middleware_external\MobilePocService\obj\Debug\MobilePocService.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\aliyunService\MobilePocService\bin\Debug\MobilePocService.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\aliyunService\MobilePocService\bin\Debug\MobilePocService.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\aliyunService\MobilePocService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\aliyunService\MobilePocService\obj\Debug\MobilePocService.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\aliyunService\MobilePocService\obj\Debug\MobilePocService.pdb
+C:\Users\Administrator\Desktop\113\aliyunService\MobilePocService\bin\Debug\MobilePocService.dll
+C:\Users\Administrator\Desktop\113\aliyunService\MobilePocService\bin\Debug\MobilePocService.pdb
+C:\Users\Administrator\Desktop\113\aliyunService\MobilePocService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\113\aliyunService\MobilePocService\obj\Debug\MobilePocService.dll
+C:\Users\Administrator\Desktop\113\aliyunService\MobilePocService\obj\Debug\MobilePocService.pdb
+C:\Users\Administrator\Desktop\victory\113\aliyunService\MobilePocService\bin\Debug\MobilePocService.dll
+C:\Users\Administrator\Desktop\victory\113\aliyunService\MobilePocService\bin\Debug\MobilePocService.pdb
+C:\Users\Administrator\Desktop\victory\113\aliyunService\MobilePocService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\victory\113\aliyunService\MobilePocService\obj\Debug\MobilePocService.dll
+C:\Users\Administrator\Desktop\victory\113\aliyunService\MobilePocService\obj\Debug\MobilePocService.pdb
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\MobilePocService\bin\Debug\MobilePocService.dll
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\MobilePocService\bin\Debug\MobilePocService.pdb
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\MobilePocService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\MobilePocService\obj\Debug\MobilePocService.dll
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\MobilePocService\obj\Debug\MobilePocService.pdb
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\MobilePocService\bin\Debug\MobilePocService.dll
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\MobilePocService\bin\Debug\MobilePocService.pdb
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\MobilePocService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\MobilePocService\obj\Debug\MobilePocService.dll
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\MobilePocService\obj\Debug\MobilePocService.pdb
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\MobilePocService\bin\Debug\MobilePocService.dll
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\MobilePocService\bin\Debug\MobilePocService.pdb
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\MobilePocService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\MobilePocService\obj\Debug\MobilePocService.dll
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\MobilePocService\obj\Debug\MobilePocService.pdb
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\MobilePocService\bin\Debug\MobilePocService.dll
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\MobilePocService\bin\Debug\MobilePocService.pdb
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\MobilePocService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\MobilePocService\obj\Debug\MobilePocService.dll
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\MobilePocService\obj\Debug\MobilePocService.pdb
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\MobilePocService\bin\Debug\MobilePocService.dll
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\MobilePocService\bin\Debug\MobilePocService.pdb
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\MobilePocService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\MobilePocService\obj\Debug\MobilePocService.dll
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\MobilePocService\obj\Debug\MobilePocService.pdb
+C:\Users\Administrator\Desktop\me2\me\aliyunService\MobilePocService\bin\Debug\MobilePocService.dll
+C:\Users\Administrator\Desktop\me2\me\aliyunService\MobilePocService\bin\Debug\MobilePocService.pdb
+C:\Users\Administrator\Desktop\me2\me\aliyunService\MobilePocService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\me2\me\aliyunService\MobilePocService\obj\Debug\MobilePocService.dll
+C:\Users\Administrator\Desktop\me2\me\aliyunService\MobilePocService\obj\Debug\MobilePocService.pdb

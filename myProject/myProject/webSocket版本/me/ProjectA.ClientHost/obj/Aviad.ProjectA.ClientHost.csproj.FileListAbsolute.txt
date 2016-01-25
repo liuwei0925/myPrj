@@ -1,0 +1,14 @@
+C:\Projects\Utils\Socket Communication - Typed Messages\ClientHost\bin\Debug\Aviad.ProjectA.ClientHost.exe
+C:\Projects\Utils\Socket Communication - Typed Messages\ClientHost\bin\Debug\Aviad.ProjectA.ClientHost.pdb
+C:\Projects\Utils\Socket Communication - Typed Messages\ClientHost\bin\Debug\Aviad.Utils.Communication.Core.dll
+C:\Projects\Utils\Socket Communication - Typed Messages\ClientHost\bin\Debug\Aviad.Utils.Communication.Core.pdb
+C:\Projects\Utils\Socket Communication - Typed Messages\ClientHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Utils\Socket Communication - Typed Messages\ClientHost\obj\Debug\Aviad.ProjectA.ClientHost.FrmClient.resources
+C:\Projects\Utils\Socket Communication - Typed Messages\ClientHost\obj\Debug\Aviad.ProjectA.ClientHost.Properties.Resources.resources
+C:\Projects\Utils\Socket Communication - Typed Messages\ClientHost\obj\Debug\Aviad.ProjectA.ClientHost.csproj.GenerateResource.Cache
+C:\Projects\Utils\Socket Communication - Typed Messages\ClientHost\obj\Debug\Aviad.ProjectA.ClientHost.exe
+C:\Projects\Utils\Socket Communication - Typed Messages\ClientHost\obj\Debug\Aviad.ProjectA.ClientHost.pdb
+C:\Projects\Utils\Socket Communication - Typed Messages\ClientHost\bin\Debug\Aviad.ProjectA.Protocol.dll
+C:\Projects\Utils\Socket Communication - Typed Messages\ClientHost\bin\Debug\Aviad.ProjectA.Protocol.pdb
+C:\Projects\Utils\Socket Communication - Typed Messages\ClientHost\bin\Debug\RemotingTemplate.Globals.dll
+C:\Projects\Utils\Socket Communication - Typed Messages\ClientHost\bin\Debug\RemotingTemplate.Globals.pdb

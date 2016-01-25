@@ -1,0 +1,158 @@
+F:\VC_project\serverProjects\WebUnicomAction\WebUnicomAction\bin\Debug\WebUnicomAction.dll.config
+F:\VC_project\serverProjects\WebUnicomAction\WebUnicomAction\bin\Debug\WebUnicomAction.dll
+F:\VC_project\serverProjects\WebUnicomAction\WebUnicomAction\bin\Debug\WebUnicomAction.pdb
+F:\VC_project\serverProjects\WebUnicomAction\WebUnicomAction\obj\Debug\ResolveAssemblyReference.cache
+F:\VC_project\serverProjects\WebUnicomAction\WebUnicomAction\obj\Debug\WebUnicomAction.dll
+F:\VC_project\serverProjects\WebUnicomAction\WebUnicomAction\obj\Debug\WebUnicomAction.pdb
+F:\VC_project\serverProjects\WebUnicomAction\WebUnicomAction\obj\Debug\WebUnicomAction.WebUniconWin.resources
+F:\VC_project\serverProjects\WebUnicomAction\WebUnicomAction\obj\Debug\GenerateResource.read.1.tlog
+F:\VC_project\serverProjects\WebUnicomAction\WebUnicomAction\obj\Debug\GenerateResource.write.1.tlog
+F:\VC_project\serverProjects\普天\WebUnicomAction-联通模块\WebUnicomAction\bin\Debug\WebUnicomAction.dll.config
+F:\VC_project\serverProjects\普天\WebUnicomAction-联通模块\WebUnicomAction\bin\Debug\WebUnicomAction.dll
+F:\VC_project\serverProjects\普天\WebUnicomAction-联通模块\WebUnicomAction\bin\Debug\WebUnicomAction.pdb
+F:\VC_project\serverProjects\普天\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\ResolveAssemblyReference.cache
+F:\VC_project\serverProjects\普天\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\WebUnicomAction.WebUniconWin.resources
+F:\VC_project\serverProjects\普天\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\GenerateResource.read.1.tlog
+F:\VC_project\serverProjects\普天\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\GenerateResource.write.1.tlog
+F:\VC_project\serverProjects\普天\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\WebUnicomAction.dll
+F:\VC_project\serverProjects\普天\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\WebUnicomAction.pdb
+F:\kezhaosheng_work\hangzhoi_ims\WebUnicomAction-联通模块\WebUnicomAction\bin\Debug\WebUnicomAction.dll.config
+F:\kezhaosheng_work\hangzhoi_ims\WebUnicomAction-联通模块\WebUnicomAction\bin\Debug\WebUnicomAction.dll
+F:\kezhaosheng_work\hangzhoi_ims\WebUnicomAction-联通模块\WebUnicomAction\bin\Debug\WebUnicomAction.pdb
+F:\kezhaosheng_work\hangzhoi_ims\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\ResolveAssemblyReference.cache
+F:\kezhaosheng_work\hangzhoi_ims\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\WebUnicomAction.WebUniconWin.resources
+F:\kezhaosheng_work\hangzhoi_ims\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\GenerateResource.read.1.tlog
+F:\kezhaosheng_work\hangzhoi_ims\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\GenerateResource.write.1.tlog
+F:\kezhaosheng_work\hangzhoi_ims\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\WebUnicomAction.dll
+F:\kezhaosheng_work\hangzhoi_ims\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\WebUnicomAction.pdb
+F:\kezhaosheng_work\code\zhongjianjian_new\zhongjianjan_server\WebUnicomAction-联通模块\WebUnicomAction\bin\Debug\WebUnicomAction.dll.config
+F:\kezhaosheng_work\code\zhongjianjian_new\zhongjianjan_server\WebUnicomAction-联通模块\WebUnicomAction\bin\Debug\WebUnicomAction.dll
+F:\kezhaosheng_work\code\zhongjianjian_new\zhongjianjan_server\WebUnicomAction-联通模块\WebUnicomAction\bin\Debug\WebUnicomAction.pdb
+F:\kezhaosheng_work\code\zhongjianjian_new\zhongjianjan_server\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\ResolveAssemblyReference.cache
+F:\kezhaosheng_work\code\zhongjianjian_new\zhongjianjan_server\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\WebUnicomAction.WebUniconWin.resources
+F:\kezhaosheng_work\code\zhongjianjian_new\zhongjianjan_server\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\GenerateResource.read.1.tlog
+F:\kezhaosheng_work\code\zhongjianjian_new\zhongjianjan_server\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\GenerateResource.write.1.tlog
+F:\kezhaosheng_work\code\zhongjianjian_new\zhongjianjan_server\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\WebUnicomAction.dll
+F:\kezhaosheng_work\code\zhongjianjian_new\zhongjianjan_server\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\WebUnicomAction.pdb
+C:\Users\Administrator\Desktop\zhongjianjian_new _msg_bus\zhongjianjan_server\WebUnicomAction-联通模块\WebUnicomAction\bin\Debug\WebUnicomAction.dll.config
+C:\Users\Administrator\Desktop\zhongjianjian_new _msg_bus\zhongjianjan_server\WebUnicomAction-联通模块\WebUnicomAction\bin\Debug\WebUnicomAction.dll
+C:\Users\Administrator\Desktop\zhongjianjian_new _msg_bus\zhongjianjan_server\WebUnicomAction-联通模块\WebUnicomAction\bin\Debug\WebUnicomAction.pdb
+C:\Users\Administrator\Desktop\zhongjianjian_new _msg_bus\zhongjianjan_server\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\WebUnicomAction.WebUniconWin.resources
+C:\Users\Administrator\Desktop\zhongjianjian_new _msg_bus\zhongjianjan_server\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\WebUnicomAction.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\zhongjianjian_new _msg_bus\zhongjianjan_server\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\WebUnicomAction.dll
+C:\Users\Administrator\Desktop\zhongjianjian_new _msg_bus\zhongjianjan_server\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\WebUnicomAction.pdb
+C:\Users\kezhaosheng\Desktop\tmp\server\WebUnicomAction-联通模块\WebUnicomAction\bin\Debug\WebUnicomAction.dll.config
+C:\Users\kezhaosheng\Desktop\tmp\server\WebUnicomAction-联通模块\WebUnicomAction\bin\Debug\WebUnicomAction.dll
+C:\Users\kezhaosheng\Desktop\tmp\server\WebUnicomAction-联通模块\WebUnicomAction\bin\Debug\WebUnicomAction.pdb
+C:\Users\kezhaosheng\Desktop\tmp\server\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kezhaosheng\Desktop\tmp\server\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\WebUnicomAction.WebUniconWin.resources
+C:\Users\kezhaosheng\Desktop\tmp\server\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\kezhaosheng\Desktop\tmp\server\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\kezhaosheng\Desktop\tmp\server\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\WebUnicomAction.dll
+C:\Users\kezhaosheng\Desktop\tmp\server\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\WebUnicomAction.pdb
+F:\hangzhou\backup\杭州\中间件\中间件\server\WebUnicomAction-联通模块\WebUnicomAction\bin\Debug\WebUnicomAction.dll.config
+F:\hangzhou\backup\杭州\中间件\中间件\server\WebUnicomAction-联通模块\WebUnicomAction\bin\Debug\WebUnicomAction.dll
+F:\hangzhou\backup\杭州\中间件\中间件\server\WebUnicomAction-联通模块\WebUnicomAction\bin\Debug\WebUnicomAction.pdb
+F:\hangzhou\backup\杭州\中间件\中间件\server\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\WebUnicomAction.WebUniconWin.resources
+F:\hangzhou\backup\杭州\中间件\中间件\server\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\WebUnicomAction.csproj.GenerateResource.Cache
+F:\hangzhou\backup\杭州\中间件\中间件\server\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\WebUnicomAction.dll
+F:\hangzhou\backup\杭州\中间件\中间件\server\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\WebUnicomAction.pdb
+C:\Users\kezhaosheng\Desktop\11-18\中间件\server\WebUnicomAction-联通模块\WebUnicomAction\bin\Debug\WebUnicomAction.dll.config
+C:\Users\kezhaosheng\Desktop\11-18\中间件\server\WebUnicomAction-联通模块\WebUnicomAction\bin\Debug\WebUnicomAction.dll
+C:\Users\kezhaosheng\Desktop\11-18\中间件\server\WebUnicomAction-联通模块\WebUnicomAction\bin\Debug\WebUnicomAction.pdb
+C:\Users\kezhaosheng\Desktop\11-18\中间件\server\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kezhaosheng\Desktop\11-18\中间件\server\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\WebUnicomAction.WebUniconWin.resources
+C:\Users\kezhaosheng\Desktop\11-18\中间件\server\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\kezhaosheng\Desktop\11-18\中间件\server\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\kezhaosheng\Desktop\11-18\中间件\server\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\WebUnicomAction.dll
+C:\Users\kezhaosheng\Desktop\11-18\中间件\server\WebUnicomAction-联通模块\WebUnicomAction\obj\Debug\WebUnicomAction.pdb
+C:\Users\kezhaosheng\Documents\Visual Studio 2010\Projects\middleware_external\WebUnicomAction\bin\Debug\WebUnicomAction.dll.config
+C:\Users\kezhaosheng\Documents\Visual Studio 2010\Projects\middleware_external\WebUnicomAction\bin\Debug\WebUnicomAction.dll
+C:\Users\kezhaosheng\Documents\Visual Studio 2010\Projects\middleware_external\WebUnicomAction\bin\Debug\WebUnicomAction.pdb
+C:\Users\kezhaosheng\Documents\Visual Studio 2010\Projects\middleware_external\WebUnicomAction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kezhaosheng\Documents\Visual Studio 2010\Projects\middleware_external\WebUnicomAction\obj\Debug\WebUnicomAction.WebUniconWin.resources
+C:\Users\kezhaosheng\Documents\Visual Studio 2010\Projects\middleware_external\WebUnicomAction\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\kezhaosheng\Documents\Visual Studio 2010\Projects\middleware_external\WebUnicomAction\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\kezhaosheng\Documents\Visual Studio 2010\Projects\middleware_external\WebUnicomAction\obj\Debug\WebUnicomAction.dll
+C:\Users\kezhaosheng\Documents\Visual Studio 2010\Projects\middleware_external\WebUnicomAction\obj\Debug\WebUnicomAction.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\aliyunService\WebUnicomAction\bin\Debug\WebUnicomAction.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\aliyunService\WebUnicomAction\bin\Debug\WebUnicomAction.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\aliyunService\WebUnicomAction\bin\Debug\WebUnicomAction.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\aliyunService\WebUnicomAction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\aliyunService\WebUnicomAction\obj\Debug\WebUnicomAction.WebUniconWin.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\aliyunService\WebUnicomAction\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\aliyunService\WebUnicomAction\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\aliyunService\WebUnicomAction\obj\Debug\WebUnicomAction.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\aliyunService\WebUnicomAction\obj\Debug\WebUnicomAction.pdb
+C:\Users\Administrator\Desktop\113\aliyunService\WebUnicomAction\bin\Debug\WebUnicomAction.dll.config
+C:\Users\Administrator\Desktop\113\aliyunService\WebUnicomAction\bin\Debug\WebUnicomAction.dll
+C:\Users\Administrator\Desktop\113\aliyunService\WebUnicomAction\bin\Debug\WebUnicomAction.pdb
+C:\Users\Administrator\Desktop\113\aliyunService\WebUnicomAction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\113\aliyunService\WebUnicomAction\obj\Debug\WebUnicomAction.WebUniconWin.resources
+C:\Users\Administrator\Desktop\113\aliyunService\WebUnicomAction\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\113\aliyunService\WebUnicomAction\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\113\aliyunService\WebUnicomAction\obj\Debug\WebUnicomAction.dll
+C:\Users\Administrator\Desktop\113\aliyunService\WebUnicomAction\obj\Debug\WebUnicomAction.pdb
+C:\Users\Administrator\Desktop\victory\113\aliyunService\WebUnicomAction\bin\Debug\WebUnicomAction.dll.config
+C:\Users\Administrator\Desktop\victory\113\aliyunService\WebUnicomAction\bin\Debug\WebUnicomAction.dll
+C:\Users\Administrator\Desktop\victory\113\aliyunService\WebUnicomAction\bin\Debug\WebUnicomAction.pdb
+C:\Users\Administrator\Desktop\victory\113\aliyunService\WebUnicomAction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\victory\113\aliyunService\WebUnicomAction\obj\Debug\WebUnicomAction.WebUniconWin.resources
+C:\Users\Administrator\Desktop\victory\113\aliyunService\WebUnicomAction\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\victory\113\aliyunService\WebUnicomAction\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\victory\113\aliyunService\WebUnicomAction\obj\Debug\WebUnicomAction.dll
+C:\Users\Administrator\Desktop\victory\113\aliyunService\WebUnicomAction\obj\Debug\WebUnicomAction.pdb
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\WebUnicomAction\bin\Debug\WebUnicomAction.dll.config
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\WebUnicomAction\bin\Debug\WebUnicomAction.dll
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\WebUnicomAction\bin\Debug\WebUnicomAction.pdb
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\WebUnicomAction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\WebUnicomAction\obj\Debug\WebUnicomAction.WebUniconWin.resources
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\WebUnicomAction\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\WebUnicomAction\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\WebUnicomAction\obj\Debug\WebUnicomAction.dll
+C:\Users\Administrator\Desktop\victory\victory\113\aliyunService\WebUnicomAction\obj\Debug\WebUnicomAction.pdb
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\WebUnicomAction\bin\Debug\WebUnicomAction.dll.config
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\WebUnicomAction\bin\Debug\WebUnicomAction.dll
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\WebUnicomAction\bin\Debug\WebUnicomAction.pdb
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\WebUnicomAction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\WebUnicomAction\obj\Debug\WebUnicomAction.WebUniconWin.resources
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\WebUnicomAction\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\WebUnicomAction\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\WebUnicomAction\obj\Debug\WebUnicomAction.dll
+C:\Users\Administrator\Desktop\victory3\victory\victory\113\aliyunService\WebUnicomAction\obj\Debug\WebUnicomAction.pdb
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\WebUnicomAction\bin\Debug\WebUnicomAction.dll.config
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\WebUnicomAction\bin\Debug\WebUnicomAction.dll
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\WebUnicomAction\bin\Debug\WebUnicomAction.pdb
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\WebUnicomAction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\WebUnicomAction\obj\Debug\WebUnicomAction.WebUniconWin.resources
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\WebUnicomAction\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\WebUnicomAction\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\WebUnicomAction\obj\Debug\WebUnicomAction.dll
+C:\Users\Administrator\Desktop\backup\备份2\victory3\victory\victory\113\aliyunService\WebUnicomAction\obj\Debug\WebUnicomAction.pdb
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\WebUnicomAction\bin\Debug\WebUnicomAction.dll.config
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\WebUnicomAction\bin\Debug\WebUnicomAction.dll
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\WebUnicomAction\bin\Debug\WebUnicomAction.pdb
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\WebUnicomAction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\WebUnicomAction\obj\Debug\WebUnicomAction.WebUniconWin.resources
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\WebUnicomAction\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\WebUnicomAction\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\WebUnicomAction\obj\Debug\WebUnicomAction.dll
+C:\Users\Administrator\Desktop\备份123\备份2\victory3\victory\victory\113\aliyunService\WebUnicomAction\obj\Debug\WebUnicomAction.pdb
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\WebUnicomAction\bin\Debug\WebUnicomAction.dll.config
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\WebUnicomAction\bin\Debug\WebUnicomAction.dll
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\WebUnicomAction\bin\Debug\WebUnicomAction.pdb
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\WebUnicomAction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\WebUnicomAction\obj\Debug\WebUnicomAction.WebUniconWin.resources
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\WebUnicomAction\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\WebUnicomAction\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\WebUnicomAction\obj\Debug\WebUnicomAction.dll
+C:\Users\Administrator\Desktop\备份123\备份123\备份2\victory3\victory\victory\113\aliyunService\WebUnicomAction\obj\Debug\WebUnicomAction.pdb
+C:\Users\Administrator\Desktop\me2\me\aliyunService\WebUnicomAction\bin\Debug\WebUnicomAction.dll.config
+C:\Users\Administrator\Desktop\me2\me\aliyunService\WebUnicomAction\bin\Debug\WebUnicomAction.dll
+C:\Users\Administrator\Desktop\me2\me\aliyunService\WebUnicomAction\bin\Debug\WebUnicomAction.pdb
+C:\Users\Administrator\Desktop\me2\me\aliyunService\WebUnicomAction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\me2\me\aliyunService\WebUnicomAction\obj\Debug\WebUnicomAction.WebUniconWin.resources
+C:\Users\Administrator\Desktop\me2\me\aliyunService\WebUnicomAction\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\me2\me\aliyunService\WebUnicomAction\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\me2\me\aliyunService\WebUnicomAction\obj\Debug\WebUnicomAction.dll
+C:\Users\Administrator\Desktop\me2\me\aliyunService\WebUnicomAction\obj\Debug\WebUnicomAction.pdb
